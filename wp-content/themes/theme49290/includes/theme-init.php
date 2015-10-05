@@ -113,16 +113,16 @@ function my_post_type_testi() {
 add_action('init', 'my_post_type_testi');
 
 /* Services */
-function my_post_type_services() {
-	register_post_type( 'services',
+function my_post_type_matieres() {
+	register_post_type( 'matiere',
 		array( 
-				'label'             => theme_locals("services"), 
+				'label'             => "Mati&#232;res Premi&#232;res",
 				'public'            => true, 
 				'show_ui'           => true,
 				'show_in_nav_menus' => false,
 				'menu_position'     => 5,
 				'rewrite'           => array(
-					'slug'       => 'services-view',
+					'slug'       => 'matiere',
 					'with_front' => FALSE,
 				),
 				'supports' => array(
@@ -132,7 +132,7 @@ function my_post_type_services() {
 					) 
 				);
 }
-add_action('init', 'my_post_type_services');
+add_action('init', 'my_post_type_matieres');
 
 /* FAQs */
 function phi_post_type_faq() {
