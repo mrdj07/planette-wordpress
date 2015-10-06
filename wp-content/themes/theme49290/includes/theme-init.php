@@ -56,7 +56,7 @@ function my_post_type_slider() {
 		)
 	);
 }
-add_action('init', 'my_post_type_slider');
+//add_action('init', 'my_post_type_slider');
 
 /* Portfolio */
 function my_post_type_portfolio() {
@@ -93,13 +93,13 @@ add_action('init', 'my_post_type_portfolio');
 function my_post_type_testi() {
 	register_post_type( 'testi',
 		array( 
-				'label'             => theme_locals("testimonial"), 
+				'label'             => 'T&#233;moignages',
 				'public'            => true, 
 				'show_ui'           => true,
 				'show_in_nav_menus' => false,
 				'menu_position'     => 5,
 				'rewrite'           => array(
-					'slug'       => 'testimonial-view',
+					'slug'       => 'temoignage',
 					'with_front' => FALSE,
 				),
 				'supports' => array(
@@ -112,7 +112,7 @@ function my_post_type_testi() {
 }
 add_action('init', 'my_post_type_testi');
 
-/* Services */
+/* Matieres */
 function my_post_type_matieres() {
 	register_post_type( 'matiere',
 		array( 
@@ -133,6 +133,29 @@ function my_post_type_matieres() {
 				);
 }
 add_action('init', 'my_post_type_matieres');
+
+/* Produits */
+function my_post_type_produits() {
+	register_post_type( 'produit',
+		array(
+			'label'             => "Produits",
+			'public'            => true,
+			'show_ui'           => true,
+			'show_in_nav_menus' => false,
+			'menu_position'     => 5,
+			'rewrite'           => array(
+				'slug'       => 'produit',
+				'with_front' => FALSE,
+			),
+			'supports' => array(
+				'title',
+				'thumbnail',
+				'editor')
+		)
+	);
+	register_taxonomy('product_category', 'produit', array('hierarchical' => true, 'label' => 'Cat&#233;gories de Produits', 'singular_name' => 'Produit', "rewrite" => true, "query_var" => true));
+}
+add_action('init', 'my_post_type_produits');
 
 /* FAQs */
 function phi_post_type_faq() {
@@ -155,14 +178,13 @@ function phi_post_type_faq() {
 				)
 		);
 }
-add_action('init', 'phi_post_type_faq');
+//add_action('init', 'phi_post_type_faq');
 
 /* Our Team */
 function my_post_type_team() {
 	register_post_type( 'team',
 		array( 
-				'label'               => theme_locals("our_team"), 
-				'singular_label'      => theme_locals("our_team"),
+				'label'               => 'Notre &#201;quipe',
 				'_builtin'            => false,
 				// 'exclude_from_search' => true, // Exclude from Search Results
 				'capability_type'     => 'page',

@@ -10,8 +10,8 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" id="content" data-motopress-type="loop" data-motopress-loop-file="loop/loop-single-matiere.php">
-						<?php get_template_part("loop/loop-single-matiere"); ?>
+					<div class="<?php echo cherry_get_layout_class( 'full_width_content' ); ?>" id="content" data-motopress-type="loop" data-motopress-loop-file="loop/loop-single.php">
+						<?php get_template_part("loop/loop-single-produit"); ?>
 					</div>
 				</div>
 			</div>
