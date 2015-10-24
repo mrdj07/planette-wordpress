@@ -114,7 +114,7 @@
 	if ( function_exists( 'icl_object_id' ) ) $post = get_post( icl_object_id( $post->ID, 'portfolio', true ) );
 	
 	// Get categories
-	$portfolio_cats = wp_get_object_terms($post->ID, 'portfolio_category');
+	$portfolio_cats = wp_get_object_terms($post->ID, 'produit_category');
 	
 	// Get tags
 	$portfolio_tags = !is_wp_error( wp_get_object_terms($post->ID, 'portfolio_tag')) ? wp_get_object_terms($post->ID, 'portfolio_tag') : array();

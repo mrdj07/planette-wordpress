@@ -47,11 +47,16 @@
 				<div class="post_content">
 					<?php the_content(''); ?>
 					<div class="clear"></div>
+					<a href="#" class="open-instructions" title="Cliquez pour ouvrir les instructions">Instructions</a>
+					<div class="produit-instructions">
+						<?php the_field('instructions'); ?>
+					</div>
+					<hr/>
 					<ul>
 						<li><strong>Format: </strong><?php the_field('format'); ?></li>
 						<li><strong>Prix Sugg&eacute;r&eacute;: </strong><?php the_field('prix_suggere'); ?></li>
-						<li><strong>Instructions: </strong><?php the_field('instructions'); ?></li>
 					</ul>
+
 				</div>
 				<!-- //Post Content -->
 			<?php endif; ?>
@@ -64,6 +69,15 @@
 	get_template_part( 'includes/post-formats/share-buttons' );
 	wp_link_pages('before=<div class="pagination">&after=</div>');
 ?>
+	<script>
+		$(document).ready(function(){
+			$('.open-instructions').click(function(e){
+				e.preventDefault();
+				$(this).toggleClass('active')
+				$(this).next('.produit-instructions').slideToggle();
+			})
+		})
+	</script>
 
 <?php
 	get_template_part( 'includes/post-formats/related-posts' );

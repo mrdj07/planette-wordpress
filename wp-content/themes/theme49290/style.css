@@ -15,3 +15,74 @@
 .logo_tagline{
 	display: none;
 }
+
+/** Home Page Slider **/
+.homepage-slider ul li p, .homepage-slider ul li a.btn, .homepage-slider ul li p, .homepage-slider ul li div.post_options{
+	display:none;
+}
+.homepage-slider ul li h5 a{
+	color: #FFF;
+}
+.homepage-slider ul li figure.featured-thumbnail{
+	margin: 0 0 10px 0;
+}
+
+.home2-banner h5 {
+	text-transform: none !important;
+}
+	/**
+        Featured Block
+    */
+div.span4.featured div{
+	background: url("images/bg4.png");
+	border: 1px solid #b9db75;
+	padding:10px;
+}
+
+div.span4.featured div h2 {
+
+}
+
+div.span4.featured div ul li{
+	list-style: square;
+	font-size:1.5em;
+	line-height:normal;
+}
+
+/**
+ Products Page
+ **/
+.produit-instructions{
+	display:none;
+	background-color: #FFF;
+	color: #000;
+	border:1px solid #000;
+	padding:10px;
+	width: auto;
+}
+
+.open-instructions{
+	font-size: 20px;
+	font-weight: bold;
+	color: #b9db75;
+	position:relative
+}
+
+.open-instructions:after{
+	content: ' ';
+	position: absolute;
+	right: -15px;
+	top: 50%;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid #b9db75;
+}
+
+.open-instructions.active:after{
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 0 solid transparent;
+	border-bottom: 5px solid #b9db75;
+}

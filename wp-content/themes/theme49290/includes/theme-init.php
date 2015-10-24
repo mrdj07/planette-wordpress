@@ -153,7 +153,7 @@ function my_post_type_produits() {
 				'editor')
 		)
 	);
-	register_taxonomy('product_category', 'produit', array('hierarchical' => true, 'label' => 'Cat&#233;gories de Produits', 'singular_name' => 'Produit', "rewrite" => true, "query_var" => true));
+	register_taxonomy('produit_category', 'produit', array('hierarchical' => true, 'label' => theme_locals("categories"), 'singular_name' => theme_locals("category"), "rewrite" => true, "query_var" => true));
 }
 add_action('init', 'my_post_type_produits');
 
