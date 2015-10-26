@@ -234,7 +234,7 @@
 				<?php } ?>
 				
 				<?php if($folio_btn == "yes"){ ?>
-					<p><a href="<?php the_permalink() ?>" class="btn btn-primary"><?php echo __("More"); ?></a></p>
+					<p><a href="<?php the_permalink() ?>" class="btn btn-primary"><?php echo __("More", CURRENT_THEME); ?></a></p>
 				<?php } ?>
 			</div><!--/.caption__portfolio-->
 

@@ -86,3 +86,18 @@ div.span4.featured div ul li{
 	border-top: 0 solid transparent;
 	border-bottom: 5px solid #b9db75;
 }
+
+.produits-list a{
+	text-decoration: underline;
+	color: #b9db75;
+}
+
+.filter-wrapper .pull-right #filters li a {
+	font-weight: lighter;
+	text-decoration: none;
+}
+.filter-wrapper .pull-right #filters li a.active {
+	border-bottom: 1px solid #b9db75;
+}
+
+

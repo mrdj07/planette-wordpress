@@ -51,14 +51,13 @@ function widget($args, $instance) {
 	);
 	
 	$cat_posts = new WP_Query($args);
-	
 	echo $before_widget;
 	
 	// Widget title
 	// If title exist.
 	if( $title ) {
 		echo $before_title;
-			echo $title;
+			echo __($title, CURRENT_THEME);
 		echo $after_title;
 	}
 

@@ -80,7 +80,7 @@
 	</script>
 
 <?php
-	get_template_part( 'includes/post-formats/related-posts' );
-	comments_template('', true);
+	//get_template_part( 'includes/post-formats/related-posts' );
+	//comments_template('', true);
 	endwhile; endif; 
 ?>

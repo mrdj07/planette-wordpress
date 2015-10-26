@@ -1,314 +1,372 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fr_FR\n"
-"POT-Creation-Date: 2015-02-11 16:30+0200\n"
-"PO-Revision-Date: 2015-02-11 16:30+0200\n"
+"POT-Creation-Date: 2015-10-25 16:43-0400\n"
+"PO-Revision-Date: 2015-10-25 17:22-0400\n"
 "Last-Translator: \n"
 "Language-Team: Cherry Team <demolink@info.org>\n"
-"Language: fr\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-Basepath: ./\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: ../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: CherryFramework\n"
+"X-Poedit-SearchPath-1: theme49290\n"
 
-#: ../admin/options-medialibrary-uploader.php:79
-#: ../admin/options-medialibrary-uploader.php:136 ../includes/locals.php:27
+#: CherryFramework/admin/options-medialibrary-uploader.php:79
+#: CherryFramework/admin/options-medialibrary-uploader.php:136
+#: CherryFramework/includes/locals.php:27
 msgid "Upload"
 msgstr "Télécharger"
 
-#: ../admin/options-medialibrary-uploader.php:80
-#: ../admin/options-medialibrary-uploader.php:138
+#: CherryFramework/admin/options-medialibrary-uploader.php:80
+#: CherryFramework/admin/options-medialibrary-uploader.php:138
 msgid "Remove"
-msgstr ""
+msgstr "Supprimer"
 
-#: ../admin/options-medialibrary-uploader.php:141
+#: CherryFramework/admin/options-medialibrary-uploader.php:141
 msgid "Upgrade your version of WordPress for full media support."
 msgstr ""
+"Améliorez votre version de WordPress pour le soutien médiatique complète."
 
-#: ../admin/options-sanitize.php:257 ../includes/locals.php:414
+#: CherryFramework/admin/options-sanitize.php:257
+#: CherryFramework/includes/locals.php:416
 msgid "No Repeat"
 msgstr "Pas de répétition"
 
-#: ../admin/options-sanitize.php:258 ../includes/locals.php:415
+#: CherryFramework/admin/options-sanitize.php:258
+#: CherryFramework/includes/locals.php:417
 msgid "Repeat Horizontally"
 msgstr "répéter horizontalement"
 
-#: ../admin/options-sanitize.php:259 ../includes/locals.php:416
+#: CherryFramework/admin/options-sanitize.php:259
+#: CherryFramework/includes/locals.php:418
 msgid "Repeat Vertically"
 msgstr "Répétez verticalement"
 
-#: ../admin/options-sanitize.php:260 ../includes/locals.php:417
+#: CherryFramework/admin/options-sanitize.php:260
+#: CherryFramework/includes/locals.php:419
 msgid "Repeat All"
 msgstr "répéter tout"
 
-#: ../admin/options-sanitize.php:273 ../includes/locals.php:418
+#: CherryFramework/admin/options-sanitize.php:273
+#: CherryFramework/includes/locals.php:420
 msgid "Top Left"
 msgstr "En haut à gauche"
 
-#: ../admin/options-sanitize.php:274 ../includes/locals.php:419
+#: CherryFramework/admin/options-sanitize.php:274
+#: CherryFramework/includes/locals.php:421
 msgid "Top Center"
 msgstr "Au Centre"
 
-#: ../admin/options-sanitize.php:275 ../includes/locals.php:420
+#: CherryFramework/admin/options-sanitize.php:275
+#: CherryFramework/includes/locals.php:422
 msgid "Top Right"
 msgstr "En haut à droite"
 
-#: ../admin/options-sanitize.php:276 ../includes/locals.php:421
+#: CherryFramework/admin/options-sanitize.php:276
+#: CherryFramework/includes/locals.php:423
 msgid "Middle Left"
 msgstr "Moyen-Gauche"
 
-#: ../admin/options-sanitize.php:277 ../includes/locals.php:422
+#: CherryFramework/admin/options-sanitize.php:277
+#: CherryFramework/includes/locals.php:424
 msgid "Middle Center"
 msgstr "Centre Moyen"
 
-#: ../admin/options-sanitize.php:278 ../includes/locals.php:423
+#: CherryFramework/admin/options-sanitize.php:278
+#: CherryFramework/includes/locals.php:425
 msgid "Middle Right"
 msgstr "droit Moyen"
 
-#: ../admin/options-sanitize.php:279 ../includes/locals.php:424
+#: CherryFramework/admin/options-sanitize.php:279
+#: CherryFramework/includes/locals.php:426
 msgid "Bottom Left"
 msgstr "En bas à gauche"
 
-#: ../admin/options-sanitize.php:280 ../includes/locals.php:425
+#: CherryFramework/admin/options-sanitize.php:280
+#: CherryFramework/includes/locals.php:427
 msgid "Bottom Center"
 msgstr "En bas au centre"
 
-#: ../admin/options-sanitize.php:281 ../includes/locals.php:426
+#: CherryFramework/admin/options-sanitize.php:281
+#: CherryFramework/includes/locals.php:428
 msgid "Bottom Right"
 msgstr "En bas à droite"
 
-#: ../admin/options-sanitize.php:294 ../includes/locals.php:427
+#: CherryFramework/admin/options-sanitize.php:294
+#: CherryFramework/includes/locals.php:429
 msgid "Scroll Normally"
 msgstr "Normalement défilement"
 
-#: ../admin/options-sanitize.php:295 ../includes/locals.php:428
+#: CherryFramework/admin/options-sanitize.php:295
+#: CherryFramework/includes/locals.php:430
 msgid "Fixed in Place"
 msgstr "Correction en place"
 
-#: ../admin/options-sanitize.php:346
+#: CherryFramework/admin/options-sanitize.php:346
 msgid "1"
 msgstr "1"
 
-#: ../admin/options-sanitize.php:347
+#: CherryFramework/admin/options-sanitize.php:347
 msgid "1.2"
 msgstr "1.2"
 
-#: ../admin/options-sanitize.php:348
+#: CherryFramework/admin/options-sanitize.php:348
 msgid "1.5"
 msgstr "1.5"
 
-#: ../admin/options-sanitize.php:349
+#: CherryFramework/admin/options-sanitize.php:349
 msgid "2"
 msgstr "2"
 
-#: ../admin/options-sanitize.php:391 ../includes/locals.php:907
+#: CherryFramework/admin/options-sanitize.php:391
+#: CherryFramework/includes/locals.php:909
 msgid "Latin"
 msgstr "Latin"
 
-#: ../admin/options-sanitize.php:392 ../includes/locals.php:908
+#: CherryFramework/admin/options-sanitize.php:392
+#: CherryFramework/includes/locals.php:910
 msgid "Latin Extended"
 msgstr "latin étendu"
 
-#: ../admin/options-sanitize.php:393 ../includes/locals.php:909
+#: CherryFramework/admin/options-sanitize.php:393
+#: CherryFramework/includes/locals.php:911
 msgid "Greek"
 msgstr "Grecque"
 
-#: ../admin/options-sanitize.php:394 ../includes/locals.php:910
+#: CherryFramework/admin/options-sanitize.php:394
+#: CherryFramework/includes/locals.php:912
 msgid "Greek Extended"
 msgstr "Grec étendu"
 
-#: ../admin/options-sanitize.php:395 ../includes/locals.php:911
+#: CherryFramework/admin/options-sanitize.php:395
+#: CherryFramework/includes/locals.php:913
 msgid "Cyrillic"
 msgstr "cyrillique"
 
-#: ../admin/options-sanitize.php:396 ../includes/locals.php:912
+#: CherryFramework/admin/options-sanitize.php:396
+#: CherryFramework/includes/locals.php:914
 msgid "Cyrillic Extended"
 msgstr "cyrillique étendu"
 
-#: ../admin/options-sanitize.php:397 ../includes/locals.php:913
+#: CherryFramework/admin/options-sanitize.php:397
+#: CherryFramework/includes/locals.php:915
 msgid "Vietnamese"
 msgstr "vietnamien"
 
-#: ../admin/options-sanitize.php:414 ../includes/locals.php:12
-#: ../includes/locals.php:914
+#: CherryFramework/admin/options-sanitize.php:414
+#: CherryFramework/includes/locals.php:12
+#: CherryFramework/includes/locals.php:916
 msgid "Normal"
 msgstr "Normal"
 
-#: ../admin/options-sanitize.php:415 ../includes/locals.php:915
+#: CherryFramework/admin/options-sanitize.php:415
+#: CherryFramework/includes/locals.php:917
 msgid "Italic"
 msgstr "Italique"
 
-#: ../admin/options-sanitize.php:416 ../includes/locals.php:916
+#: CherryFramework/admin/options-sanitize.php:416
+#: CherryFramework/includes/locals.php:918
 msgid "Bold"
 msgstr "Bold"
 
-#: ../admin/options-sanitize.php:417 ../includes/locals.php:917
+#: CherryFramework/admin/options-sanitize.php:417
+#: CherryFramework/includes/locals.php:919
 msgid "Bold Italic"
 msgstr "Bold Italique"
 
-#: ../functions.php:1575 ../functions.php:1617
+#: CherryFramework/functions.php:1580 CherryFramework/functions.php:1622
 msgid "The package could not be installed."
 msgstr "Le fichier n'a pas pu être installé."
 
-#: ../includes/class-tgm-plugin-activation.php:196 ../includes/locals.php:580
-#: ../includes/register-plugins.php:78
+#: CherryFramework/includes/class-tgm-plugin-activation.php:196
+#: CherryFramework/includes/locals.php:582
+#: CherryFramework/includes/register-plugins.php:78
 msgid "Install Required Plugins"
 msgstr "Installez requis plugins"
 
-#: ../includes/class-tgm-plugin-activation.php:197 ../includes/locals.php:581
-#: ../includes/register-plugins.php:79
+#: CherryFramework/includes/class-tgm-plugin-activation.php:197
+#: CherryFramework/includes/locals.php:583
+#: CherryFramework/includes/register-plugins.php:79
 msgid "Install Plugins"
 msgstr "Installer des plugins"
 
-#: ../includes/class-tgm-plugin-activation.php:198 ../includes/locals.php:582
-#: ../includes/register-plugins.php:80
+#: CherryFramework/includes/class-tgm-plugin-activation.php:198
+#: CherryFramework/includes/locals.php:584
+#: CherryFramework/includes/register-plugins.php:80
 #, php-format
 msgid "Installing Plugin: %s"
 msgstr "Plugin Installation: %s"
 
-#: ../includes/class-tgm-plugin-activation.php:199
+#: CherryFramework/includes/class-tgm-plugin-activation.php:199
 msgid "Something went wrong."
 msgstr ""
 
-#: ../includes/class-tgm-plugin-activation.php:210 ../includes/locals.php:604
-#: ../includes/register-plugins.php:92
+#: CherryFramework/includes/class-tgm-plugin-activation.php:210
+#: CherryFramework/includes/locals.php:606
+#: CherryFramework/includes/register-plugins.php:92
 msgid "Return to Required Plugins Installer"
 msgstr "Retour à Obligatoires Plugins Installer"
 
-#: ../includes/class-tgm-plugin-activation.php:211
+#: CherryFramework/includes/class-tgm-plugin-activation.php:211
 msgid "Return to the dashboard"
 msgstr "Retour au tableau de bord"
 
-#: ../includes/class-tgm-plugin-activation.php:212
-#: ../includes/class-tgm-plugin-activation.php:1965 ../includes/locals.php:635
-#: ../includes/register-plugins.php:93
+#: CherryFramework/includes/class-tgm-plugin-activation.php:212
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1965
+#: CherryFramework/includes/locals.php:637
+#: CherryFramework/includes/register-plugins.php:93
 msgid "Plugin activated successfully."
 msgstr "Plugin activé avec succès."
 
-#: ../includes/class-tgm-plugin-activation.php:213 ../includes/locals.php:626
+#: CherryFramework/includes/class-tgm-plugin-activation.php:213
+#: CherryFramework/includes/locals.php:628
 msgid "The following plugin was activated successfully:"
 msgstr "Le plugin suivant a été activé avec succès:"
 
-#: ../includes/class-tgm-plugin-activation.php:214 ../includes/locals.php:606
+#: CherryFramework/includes/class-tgm-plugin-activation.php:214
+#: CherryFramework/includes/locals.php:608
 #, php-format
 msgid "All plugins installed and activated successfully. %1$s"
 msgstr "Tous les plugins installés et activés avec succès. %1$s"
 
-#: ../includes/class-tgm-plugin-activation.php:215 ../includes/locals.php:609
-#: ../includes/locals.php:933
+#: CherryFramework/includes/class-tgm-plugin-activation.php:215
+#: CherryFramework/includes/locals.php:611
+#: CherryFramework/includes/locals.php:935
 msgid "Dismiss this notice"
 msgstr "Rejeter cet avis"
 
-#: ../includes/class-tgm-plugin-activation.php:556
-#: ../includes/class-tgm-plugin-activation.php:2182 ../includes/locals.php:607
-#: ../includes/locals.php:619
+#: CherryFramework/includes/class-tgm-plugin-activation.php:556
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2182
+#: CherryFramework/includes/locals.php:609
+#: CherryFramework/includes/locals.php:621
 msgid "Return to the Dashboard"
 msgstr "Retour au tableau de bord"
 
-#: ../includes/class-tgm-plugin-activation.php:1186 ../includes/locals.php:611
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1186
+#: CherryFramework/includes/locals.php:613
 msgid "Private Repository"
 msgstr "Référentiel Privé"
 
-#: ../includes/class-tgm-plugin-activation.php:1189 ../includes/locals.php:612
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1189
+#: CherryFramework/includes/locals.php:614
 msgid "Pre-Packaged"
 msgstr "Préemballés"
 
-#: ../includes/class-tgm-plugin-activation.php:1194 ../includes/locals.php:613
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1194
+#: CherryFramework/includes/locals.php:615
 msgid "WordPress Repository"
 msgstr "Référentiel WordPress"
 
-#: ../includes/class-tgm-plugin-activation.php:1197 ../includes/locals.php:614
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1197
+#: CherryFramework/includes/locals.php:616
 msgid "Required"
 msgstr "Requis"
 
-#: ../includes/class-tgm-plugin-activation.php:1197 ../includes/locals.php:615
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1197
+#: CherryFramework/includes/locals.php:617
 msgid "Recommended"
 msgstr "Recommandé"
 
-#: ../includes/class-tgm-plugin-activation.php:1200 ../includes/locals.php:616
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1200
+#: CherryFramework/includes/locals.php:618
 msgid "Not Installed"
 msgstr "Non Installé"
 
-#: ../includes/class-tgm-plugin-activation.php:1202 ../includes/locals.php:617
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1202
+#: CherryFramework/includes/locals.php:619
 msgid "Installed But Not Activated"
 msgstr "Installé mais pas activé"
 
-#: ../includes/class-tgm-plugin-activation.php:1304
-#: ../includes/class-tgm-plugin-activation.php:1412 ../includes/locals.php:624
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1304
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1412
+#: CherryFramework/includes/locals.php:626
 msgid "Install"
 msgstr "Installer"
 
-#: ../includes/class-tgm-plugin-activation.php:1326
-#: ../includes/class-tgm-plugin-activation.php:1413 ../includes/locals.php:625
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1326
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1413
+#: CherryFramework/includes/locals.php:627
 msgid "Activate"
 msgstr "Activer"
 
-#: ../includes/class-tgm-plugin-activation.php:1375
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1375
 #, php-format
 msgid ""
 "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
 "Dashboard\">Return to the Dashboard</a>"
 msgstr ""
 
-#: ../includes/class-tgm-plugin-activation.php:1391 ../includes/locals.php:620
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1391
+#: CherryFramework/includes/locals.php:622
 msgid "Plugin"
 msgstr "Plugin"
 
-#: ../includes/class-tgm-plugin-activation.php:1392 ../includes/locals.php:621
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1392
+#: CherryFramework/includes/locals.php:623
 msgid "Source"
 msgstr "Source"
 
-#: ../includes/class-tgm-plugin-activation.php:1393 ../includes/locals.php:622
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1393
+#: CherryFramework/includes/locals.php:624
 msgid "Type"
 msgstr "Type"
 
-#: ../includes/class-tgm-plugin-activation.php:1394 ../includes/locals.php:623
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1394
+#: CherryFramework/includes/locals.php:625
 msgid "Status"
 msgstr "Statut"
 
-#: ../includes/class-tgm-plugin-activation.php:1522
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1522
 msgid "No plugins are available to be installed at this time."
 msgstr ""
 
-#: ../includes/class-tgm-plugin-activation.php:1630
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1630
 msgid "No plugins are available to be activated at this time."
 msgstr ""
 
-#: ../includes/class-tgm-plugin-activation.php:1948 ../includes/locals.php:628
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1948
+#: CherryFramework/includes/locals.php:630
 msgid "Install package not available."
 msgstr "Installer le paquet n'est pas disponible."
 
-#: ../includes/class-tgm-plugin-activation.php:1949
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1949
 #, php-format
 msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
 msgstr ""
 
-#: ../includes/class-tgm-plugin-activation.php:1950 ../includes/locals.php:630
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1950
+#: CherryFramework/includes/locals.php:632
 msgid "Unpacking the package&#8230;"
 msgstr "Déballage du paquet ..."
 
-#: ../includes/class-tgm-plugin-activation.php:1951 ../includes/locals.php:631
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1951
+#: CherryFramework/includes/locals.php:633
 msgid "Installing the plugin&#8230;"
 msgstr "Installation du plug-in ..."
 
-#: ../includes/class-tgm-plugin-activation.php:1952 ../includes/locals.php:632
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1952
+#: CherryFramework/includes/locals.php:634
 msgid "Plugin install failed."
 msgstr "Plugin installation a échoué."
 
-#: ../includes/class-tgm-plugin-activation.php:1953 ../includes/locals.php:633
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1953
+#: CherryFramework/includes/locals.php:635
 msgid "Plugin installed successfully."
 msgstr "Plugin installé avec succès."
 
-#: ../includes/class-tgm-plugin-activation.php:1964 ../includes/locals.php:634
+#: CherryFramework/includes/class-tgm-plugin-activation.php:1964
+#: CherryFramework/includes/locals.php:636
 msgid "Plugin activation failed."
 msgstr "Plugin activation a échoué."
 
-#: ../includes/class-tgm-plugin-activation.php:2078 ../includes/locals.php:636
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2078
+#: CherryFramework/includes/locals.php:638
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
@@ -317,31 +375,37 @@ msgstr ""
 "prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez "
 "patient."
 
-#: ../includes/class-tgm-plugin-activation.php:2079 ../includes/locals.php:637
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2079
+#: CherryFramework/includes/locals.php:639
 #, php-format
 msgid "%1$s installed and activated successfully."
 msgstr "%1$s installé et activé avec succès."
 
-#: ../includes/class-tgm-plugin-activation.php:2079
-#: ../includes/class-tgm-plugin-activation.php:2088 ../includes/locals.php:638
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2079
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2088
+#: CherryFramework/includes/locals.php:640
 msgid "Show Details"
 msgstr "Voir les détails"
 
-#: ../includes/class-tgm-plugin-activation.php:2079
-#: ../includes/class-tgm-plugin-activation.php:2088 ../includes/locals.php:639
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2079
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2088
+#: CherryFramework/includes/locals.php:641
 msgid "Hide Details"
 msgstr "Cacher les détails"
 
-#: ../includes/class-tgm-plugin-activation.php:2080 ../includes/locals.php:640
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2080
+#: CherryFramework/includes/locals.php:642
 msgid "All installations and activations have been completed."
 msgstr "Toutes les installations et activations ont été achevés."
 
-#: ../includes/class-tgm-plugin-activation.php:2081 ../includes/locals.php:641
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2081
+#: CherryFramework/includes/locals.php:643
 #, php-format
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr "Installation et activation Plugin %1$s (%2$d/%3$d)"
 
-#: ../includes/class-tgm-plugin-activation.php:2085 ../includes/locals.php:642
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2085
+#: CherryFramework/includes/locals.php:644
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
@@ -349,305 +413,311 @@ msgstr ""
 "Le processus d'installation commence. Ce processus peut prendre un certain "
 "temps sur certains hôtes, donc s'il vous plaît soyez patient."
 
-#: ../includes/class-tgm-plugin-activation.php:2086 ../includes/locals.php:643
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2086
+#: CherryFramework/includes/locals.php:645
 #, php-format
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
 "Une erreur s'est produite lors de l'installation de  %1$s<strong>%2$s</"
 "strong>."
 
-#: ../includes/class-tgm-plugin-activation.php:2087 ../includes/locals.php:644
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2087
+#: CherryFramework/includes/locals.php:646
 #, php-format
 msgid "The installation of %1$s failed."
 msgstr "L'installation de %1$s  a échoué."
 
-#: ../includes/class-tgm-plugin-activation.php:2088 ../includes/locals.php:645
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2088
+#: CherryFramework/includes/locals.php:647
 #, php-format
 msgid "%1$s installed successfully."
 msgstr "%1$s installés avec succès."
 
-#: ../includes/class-tgm-plugin-activation.php:2089 ../includes/locals.php:646
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2089
+#: CherryFramework/includes/locals.php:648
 msgid "All installations have been completed."
 msgstr "Toutes les installations ont été achevées."
 
-#: ../includes/class-tgm-plugin-activation.php:2090 ../includes/locals.php:647
+#: CherryFramework/includes/class-tgm-plugin-activation.php:2090
+#: CherryFramework/includes/locals.php:649
 #, php-format
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr "Installation Plugin %1$s (%2$d/%3$d)"
 
-#: ../includes/locals.php:9
+#: CherryFramework/includes/locals.php:9
 msgid "No"
 msgstr "Aucun"
 
-#: ../includes/locals.php:10
+#: CherryFramework/includes/locals.php:10
 msgid "Yes"
 msgstr "Oui"
 
-#: ../includes/locals.php:11
+#: CherryFramework/includes/locals.php:11
 msgid "Slow"
 msgstr "Lentement"
 
-#: ../includes/locals.php:13
+#: CherryFramework/includes/locals.php:13
 msgid "Fast"
 msgstr "Rapide"
 
-#: ../includes/locals.php:14
+#: CherryFramework/includes/locals.php:14
 msgid "Normal size"
 msgstr "Taille normale"
 
-#: ../includes/locals.php:15
+#: CherryFramework/includes/locals.php:15
 msgid "Large size"
 msgstr "Grande taille"
 
-#: ../includes/locals.php:16
+#: CherryFramework/includes/locals.php:16
 msgid "Font Size"
 msgstr "Taille de la police"
 
-#: ../includes/locals.php:17
+#: CherryFramework/includes/locals.php:17
 msgid "Lineheight"
 msgstr "Hauteur de ligne"
 
-#: ../includes/locals.php:18
+#: CherryFramework/includes/locals.php:18
 msgid "Font Face"
 msgstr "Visage de la police"
 
-#: ../includes/locals.php:19
+#: CherryFramework/includes/locals.php:19
 msgid "Character Sets"
 msgstr "Jeux de caractères"
 
-#: ../includes/locals.php:20
+#: CherryFramework/includes/locals.php:20
 msgid "Font Style"
 msgstr "Style de police"
 
-#: ../includes/locals.php:21
+#: CherryFramework/includes/locals.php:21
 msgid "Color"
 msgstr "Couleur"
 
-#: ../includes/locals.php:22
+#: CherryFramework/includes/locals.php:22
 msgid "Import"
 msgstr "Importer"
 
-#: ../includes/locals.php:23
+#: CherryFramework/includes/locals.php:23
 msgid "Export"
 msgstr "Exporter"
 
-#: ../includes/locals.php:24
+#: CherryFramework/includes/locals.php:24
 msgid "Done"
 msgstr "Terminé"
 
-#: ../includes/locals.php:25
+#: CherryFramework/includes/locals.php:25
 msgid "Error"
 msgstr "Erreur"
 
-#: ../includes/locals.php:26
+#: CherryFramework/includes/locals.php:26
 msgid "success"
 msgstr "succès"
 
-#: ../includes/locals.php:28
+#: CherryFramework/includes/locals.php:28
 msgid "try again"
 msgstr "essayer à nouveau"
 
-#: ../includes/locals.php:29
+#: CherryFramework/includes/locals.php:29
 msgid "Finish"
 msgstr "Terminer"
 
-#: ../includes/locals.php:30
+#: CherryFramework/includes/locals.php:30
 msgid "Skip this step"
 msgstr "Passer cette étape"
 
-#: ../includes/locals.php:31
+#: CherryFramework/includes/locals.php:31
 msgid "next"
 msgstr "suivant"
 
-#: ../includes/locals.php:32
+#: CherryFramework/includes/locals.php:32
 msgid "None"
 msgstr "aucun"
 
-#: ../includes/locals.php:33 ../includes/locals.php:772
+#: CherryFramework/includes/locals.php:33
+#: CherryFramework/includes/locals.php:774
 msgid "Date"
 msgstr "Date"
 
-#: ../includes/locals.php:34
+#: CherryFramework/includes/locals.php:34
 msgid "Title"
 msgstr "Titre"
 
-#: ../includes/locals.php:35
+#: CherryFramework/includes/locals.php:35
 msgid "Info"
 msgstr "infos"
 
-#: ../includes/locals.php:36
+#: CherryFramework/includes/locals.php:36
 msgid "Random"
 msgstr "aléatoire"
 
-#: ../includes/locals.php:37
+#: CherryFramework/includes/locals.php:37
 msgid "Comment count"
 msgstr "décompte de commentaires"
 
-#: ../includes/locals.php:38
+#: CherryFramework/includes/locals.php:38
 msgid "Enable Lightbox"
 msgstr "Activer ma sélection"
 
-#: ../includes/locals.php:39
+#: CherryFramework/includes/locals.php:39
 msgid "Check this to enable the lightbox."
 msgstr "Cochez cette case pour activer la lightbox."
 
-#: ../includes/locals.php:40
+#: CherryFramework/includes/locals.php:40
 msgid "Permalink"
 msgstr "Permalien"
 
-#: ../includes/locals.php:41
+#: CherryFramework/includes/locals.php:41
 msgid "Read more"
 msgstr "lire la suite"
 
-#: ../includes/locals.php:42
+#: CherryFramework/includes/locals.php:42
 msgid "View all"
 msgstr "voir tous"
 
-#: ../includes/locals.php:43
+#: CherryFramework/includes/locals.php:43
 msgid "Width"
 msgstr "largeur"
 
-#: ../includes/locals.php:44
+#: CherryFramework/includes/locals.php:44
 msgid "Height"
 msgstr "hauteur"
 
-#: ../includes/locals.php:45
+#: CherryFramework/includes/locals.php:45
 msgid "Excerpt length (words):"
 msgstr "Extrait longueur (mots):"
 
-#: ../includes/locals.php:46
+#: CherryFramework/includes/locals.php:46
 msgid "Link Text:"
 msgstr "Lien texte:"
 
-#: ../includes/locals.php:47
+#: CherryFramework/includes/locals.php:47
 msgid "Link URL"
 msgstr "lien URL"
 
-#: ../includes/locals.php:48
+#: CherryFramework/includes/locals.php:48
 msgid "Standard"
 msgstr "standard"
 
-#: ../includes/locals.php:49
+#: CherryFramework/includes/locals.php:49
 msgid "Aside"
 msgstr "de côté"
 
-#: ../includes/locals.php:50
+#: CherryFramework/includes/locals.php:50
 msgid "Quote"
 msgstr "Citer"
 
-#: ../includes/locals.php:51
+#: CherryFramework/includes/locals.php:51
 msgid "Link"
 msgstr "lien"
 
-#: ../includes/locals.php:52
+#: CherryFramework/includes/locals.php:52
 msgid "Image"
 msgstr "Image"
 
-#: ../includes/locals.php:53
+#: CherryFramework/includes/locals.php:53
 msgid "Gallery"
 msgstr "galerie"
 
-#: ../includes/locals.php:54
+#: CherryFramework/includes/locals.php:54
 msgid "Audio"
 msgstr "acoustique"
 
-#: ../includes/locals.php:55
+#: CherryFramework/includes/locals.php:55
 msgid "Video"
 msgstr "Video"
 
-#: ../includes/locals.php:56
+#: CherryFramework/includes/locals.php:56
 msgid "Categories"
 msgstr "catégories"
 
-#: ../includes/locals.php:57
+#: CherryFramework/includes/locals.php:57
 msgid "Tags"
 msgstr "Mots clés"
 
-#: ../includes/locals.php:58
+#: CherryFramework/includes/locals.php:58
 msgid "Show All"
 msgstr "Afficher tout"
 
-#: ../includes/locals.php:59
+#: CherryFramework/includes/locals.php:59
 msgid "search"
 msgstr "recherche"
 
-#: ../includes/locals.php:60
+#: CherryFramework/includes/locals.php:60
 msgid "Go"
 msgstr "aller"
 
-#: ../includes/locals.php:61
+#: CherryFramework/includes/locals.php:61
 msgid "&laquo; Previous post"
 msgstr "&laquo; Article précedent"
 
-#: ../includes/locals.php:62
+#: CherryFramework/includes/locals.php:62
 msgid "Next Post &raquo;"
 msgstr "Next Post »"
 
-#: ../includes/locals.php:63
+#: CherryFramework/includes/locals.php:63
 msgid "URL"
 msgstr "URL"
 
-#: ../includes/locals.php:64
+#: CherryFramework/includes/locals.php:64
 msgid "URL #1"
 msgstr "URL #1"
 
-#: ../includes/locals.php:65
+#: CherryFramework/includes/locals.php:65
 msgid "URL #2"
 msgstr "URL #2"
 
-#: ../includes/locals.php:66
+#: CherryFramework/includes/locals.php:66
 msgid "Uncategorized"
 msgstr "Non classé"
 
-#: ../includes/locals.php:67
+#: CherryFramework/includes/locals.php:67
 msgid "Last"
 msgstr "dernier"
 
-#: ../includes/locals.php:68
+#: CherryFramework/includes/locals.php:68
 msgid "First"
 msgstr "première"
 
-#: ../includes/locals.php:69
+#: CherryFramework/includes/locals.php:69
 msgid "Delete"
 msgstr "effacer"
 
-#: ../includes/locals.php:70
+#: CherryFramework/includes/locals.php:70
 msgid "Wide"
 msgstr "Large"
 
-#: ../includes/locals.php:71
+#: CherryFramework/includes/locals.php:71
 msgid "Boxed"
 msgstr "Encadré"
 
-#: ../includes/locals.php:74
+#: CherryFramework/includes/locals.php:74
 msgid "Previous"
 msgstr "précédent"
 
-#: ../includes/locals.php:75
+#: CherryFramework/includes/locals.php:75
 msgid "Next"
 msgstr "suivant"
 
-#: ../includes/locals.php:76
+#: CherryFramework/includes/locals.php:76
 msgid "Play"
 msgstr "Play"
 
-#: ../includes/locals.php:77
+#: CherryFramework/includes/locals.php:77
 msgid "Pause"
 msgstr "Pause"
 
-#: ../includes/locals.php:78
+#: CherryFramework/includes/locals.php:78
 msgid "Stop"
 msgstr "Stop"
 
-#: ../includes/locals.php:79
+#: CherryFramework/includes/locals.php:79
 msgid "Mute"
 msgstr "Mute"
 
-#: ../includes/locals.php:80
+#: CherryFramework/includes/locals.php:80
 msgid "Unmute"
 msgstr "Activer"
 
-#: ../includes/locals.php:81
+#: CherryFramework/includes/locals.php:81
 msgid ""
 "<span>Update Required. </span>To play the media you will need to either "
 "update your browser to a recent version or update your <a href='//get.adobe."
@@ -657,109 +727,109 @@ msgstr ""
 "à jour votre navigateur vers une version plus récente ou mettre à jour <a "
 "href='//get.adobe.com/flashplayer/' target='_blank'>le plus Flash</a>."
 
-#: ../includes/locals.php:84
+#: CherryFramework/includes/locals.php:84
 msgid "Cherry Options"
-msgstr "options de cerises"
+msgstr "Options de Cherry"
 
-#: ../includes/locals.php:85
+#: CherryFramework/includes/locals.php:85
 msgid "Customize"
 msgstr "personnaliser"
 
-#: ../includes/locals.php:86
+#: CherryFramework/includes/locals.php:86
 msgid "Support"
 msgstr "soutien"
 
-#: ../includes/locals.php:87
+#: CherryFramework/includes/locals.php:87
 msgid "Documentation"
 msgstr "documentation"
 
-#: ../includes/locals.php:88
+#: CherryFramework/includes/locals.php:88
 msgid "Save Options"
 msgstr "options d'enregistrement"
 
-#: ../includes/locals.php:89
+#: CherryFramework/includes/locals.php:89
 msgid "Restore Defaults"
 msgstr "restaurer les paramètres par défaut"
 
-#: ../includes/locals.php:90
+#: CherryFramework/includes/locals.php:90
 msgid "Click OK to reset. Any theme settings will be lost!"
 msgstr ""
 "Cliquez sur OK pour réinitialiser. Tous les paramètres de thème seront "
 "perdues!"
 
-#: ../includes/locals.php:93
+#: CherryFramework/includes/locals.php:93
 msgid "General"
 msgstr "général"
 
-#: ../includes/locals.php:94
+#: CherryFramework/includes/locals.php:94
 msgid "Body styling"
 msgstr "Style de carrosserie"
 
-#: ../includes/locals.php:95
+#: CherryFramework/includes/locals.php:95
 msgid "Change the background style"
 msgstr "Changez le style de fond"
 
-#: ../includes/locals.php:96
+#: CherryFramework/includes/locals.php:96
 msgid "Body Background Image"
 msgstr "Image de fond de la page"
 
-#: ../includes/locals.php:97
+#: CherryFramework/includes/locals.php:97
 msgid "Body Background Color"
 msgstr "Couleur de fond de la page"
 
-#: ../includes/locals.php:98
+#: CherryFramework/includes/locals.php:98
 msgid "Header Image"
 msgstr "Image du Header"
 
-#: ../includes/locals.php:99
+#: CherryFramework/includes/locals.php:99
 msgid "Header Color"
 msgstr "Couleur du Header"
 
-#: ../includes/locals.php:100
+#: CherryFramework/includes/locals.php:100
 msgid "Layout Style"
 msgstr "Style de mise en page"
 
-#: ../includes/locals.php:101
+#: CherryFramework/includes/locals.php:101
 msgid "Select layout for Your site"
 msgstr "Sélectionner une mise en page pour votre site"
 
-#: ../includes/locals.php:102
+#: CherryFramework/includes/locals.php:102
 msgid "Main background color"
 msgstr "Couleur de fond principale"
 
-#: ../includes/locals.php:103
+#: CherryFramework/includes/locals.php:103
 msgid "Change the main background color"
 msgstr "Changer la couleur de fond principale"
 
-#: ../includes/locals.php:104
+#: CherryFramework/includes/locals.php:104
 msgid "Header styling"
 msgstr "Style du header"
 
-#: ../includes/locals.php:105
+#: CherryFramework/includes/locals.php:105
 msgid "Change the header style"
 msgstr "Changer le style du header"
 
-#: ../includes/locals.php:106
+#: CherryFramework/includes/locals.php:106
 msgid "Link color"
 msgstr "Couleur des liens"
 
-#: ../includes/locals.php:107
+#: CherryFramework/includes/locals.php:107
 msgid "Change the color of link"
 msgstr "Changez la couleur de lien"
 
-#: ../includes/locals.php:108
+#: CherryFramework/includes/locals.php:108
 msgid "Link color hover"
 msgstr "Couleur des liens hover"
 
-#: ../includes/locals.php:109
+#: CherryFramework/includes/locals.php:109
 msgid "Change the color of link hover state"
 msgstr "Changez la couleur de l'état stationnaire lien"
 
-#: ../includes/locals.php:110
+#: CherryFramework/includes/locals.php:110
 msgid "Body Text"
 msgstr "corps du texte"
 
-#: ../includes/locals.php:111
+#: CherryFramework/includes/locals.php:111
 msgid ""
 "Choose your prefered font for body text. <em>Note: fonts marked with "
 "<strong>*</strong> symbol will be loaded from the <a href='//www.google.com/"
@@ -770,11 +840,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:112
+#: CherryFramework/includes/locals.php:112
 msgid "H1 Heading"
 msgstr "Rubrique H1"
 
-#: ../includes/locals.php:113
+#: CherryFramework/includes/locals.php:113
 msgid ""
 "Choose your prefered font for H1 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -785,11 +855,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:114
+#: CherryFramework/includes/locals.php:114
 msgid "H2 Heading"
 msgstr "Rubrique H2>"
 
-#: ../includes/locals.php:115
+#: CherryFramework/includes/locals.php:115
 msgid ""
 "Choose your prefered font for H2 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -800,11 +870,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:116
+#: CherryFramework/includes/locals.php:116
 msgid "H3 Heading"
 msgstr "Rubrique H3"
 
-#: ../includes/locals.php:117
+#: CherryFramework/includes/locals.php:117
 msgid ""
 "Choose your prefered font for H3 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -815,11 +885,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:118
+#: CherryFramework/includes/locals.php:118
 msgid "H4 Heading"
 msgstr "Rubrique H4"
 
-#: ../includes/locals.php:119
+#: CherryFramework/includes/locals.php:119
 msgid ""
 "Choose your prefered font for H4 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -830,11 +900,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:120
+#: CherryFramework/includes/locals.php:120
 msgid "H5 Heading"
 msgstr "Rubrique H5"
 
-#: ../includes/locals.php:121
+#: CherryFramework/includes/locals.php:121
 msgid ""
 "Choose your prefered font for H5 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -845,11 +915,11 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:122
+#: CherryFramework/includes/locals.php:122
 msgid "H6 Heading"
 msgstr "Rubrique H6"
 
-#: ../includes/locals.php:123
+#: CherryFramework/includes/locals.php:123
 msgid ""
 "Choose your prefered font for H6 heading and titles. <em>Note: fonts marked "
 "with <strong>*</strong> symbol will be loaded from the <a href='//www.google."
@@ -860,27 +930,27 @@ msgstr ""
 "chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</"
 "a> library.</em>"
 
-#: ../includes/locals.php:124
+#: CherryFramework/includes/locals.php:124
 msgid "Display search box?"
 msgstr "Afficher la boîte de recherche?"
 
-#: ../includes/locals.php:125
+#: CherryFramework/includes/locals.php:125
 msgid "Display search box in the header?"
 msgstr "Afficher la boîte de recherche dans l'en-tête?"
 
-#: ../includes/locals.php:126
+#: CherryFramework/includes/locals.php:126
 msgid "Display breadcrumbs?"
 msgstr "Afficher chapelure?"
 
-#: ../includes/locals.php:127
+#: CherryFramework/includes/locals.php:127
 msgid "Display breadcrumbs in the page?"
 msgstr "Afficher chapelure dans la page"
 
-#: ../includes/locals.php:128
+#: CherryFramework/includes/locals.php:128
 msgid "Custom CSS"
 msgstr "CSS personnalisé"
 
-#: ../includes/locals.php:129
+#: CherryFramework/includes/locals.php:129
 msgid ""
 "Want to add any custom CSS code? Put in here, and the rest is taken care of. "
 "This overrides any other stylesheets. eg: a.button{color:green}"
@@ -889,54 +959,62 @@ msgstr ""
 "pris en charge. Ceci remplace toutes les autres feuilles de style. par "
 "exemple: a.button {color: green}"
 
-#: ../includes/locals.php:130
+#: CherryFramework/includes/locals.php:130
 msgid "Cookie Banner"
 msgstr ""
 
-#: ../includes/locals.php:131
+#: CherryFramework/includes/locals.php:131
 msgid "Display Cookie Banner?"
 msgstr ""
 
-#: ../includes/locals.php:132
+#: CherryFramework/includes/locals.php:132
 msgid "Display Cookie Banner in the bottom page?"
 msgstr ""
 
-#: ../includes/locals.php:133
+#: CherryFramework/includes/locals.php:133
 msgid "Text"
 msgstr ""
 
-#: ../includes/locals.php:134
+#: CherryFramework/includes/locals.php:134
 msgid "Text for a Banner content"
 msgstr ""
 
-#: ../includes/locals.php:135
+#: CherryFramework/includes/locals.php:135
 msgid ""
 "We use Cookies - By using this site or closing this you agree to our Cookies "
 "policy."
 msgstr ""
 
-#: ../includes/locals.php:136
-msgid "Live Chat account ID"
+#: CherryFramework/includes/locals.php:136
+msgid "Olark live chat ID"
 msgstr ""
 
-#: ../includes/locals.php:137
+#: CherryFramework/includes/locals.php:137
 #, php-format
 msgid "To enable Olark live chat enter your live chat account ID here. %s"
 msgstr ""
 
-#: ../includes/locals.php:140
+#: CherryFramework/includes/locals.php:138
+msgid "Enable Cherry Framework support chat"
+msgstr ""
+
+#: CherryFramework/includes/locals.php:139
+msgid "Enable support chat (backend only)"
+msgstr ""
+
+#: CherryFramework/includes/locals.php:142
 msgid "Logo"
 msgstr "Logo"
 
-#: ../includes/locals.php:141
+#: CherryFramework/includes/locals.php:143
 msgid "Logo & Favicon"
 msgstr "Logo & Favicon"
 
-#: ../includes/locals.php:142
+#: CherryFramework/includes/locals.php:144
 msgid "What kind of logo?"
 msgstr "Quel type de logo?"
 
-#: ../includes/locals.php:143
+#: CherryFramework/includes/locals.php:145
 msgid ""
 "Select whether you want your main logo to be an image or text. If you select "
 "\"image\" you can put in the image url in the next option, and if you select "
@@ -950,19 +1028,20 @@ msgstr ""
 "vous pouvez mettre dans l'image url dans l'option suivante(prochaine) et si "
 "vous choisissez \"le texte \" votre Titre de Site montrera au lieu de cela."
 
-#: ../includes/locals.php:144
+#: CherryFramework/includes/locals.php:146
 msgid "Image Logo"
 msgstr "image Logo"
 
-#: ../includes/locals.php:145
+#: CherryFramework/includes/locals.php:147
 msgid "Text Logo"
 msgstr "Logo du texte"
 
-#: ../includes/locals.php:146
+#: CherryFramework/includes/locals.php:148
 msgid "Logo Typography"
 msgstr "logo Typographie"
 
-#: ../includes/locals.php:147 ../includes/locals.php:157
+#: CherryFramework/includes/locals.php:149
+#: CherryFramework/includes/locals.php:159
 msgid ""
 "Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</"
 "strong> symbol will be loaded from the <a href='//www.google.com/"
@@ -972,11 +1051,11 @@ msgstr ""
 "polices marquées avec le symbole <strong>*</strong> seront chargées à partir "
 "de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
 
-#: ../includes/locals.php:148
+#: CherryFramework/includes/locals.php:150
 msgid "Logo Image Path"
 msgstr "Logo Chemin>"
 
-#: ../includes/locals.php:149
+#: CherryFramework/includes/locals.php:151
 msgid ""
 "Click Upload or Enter the direct path to your <strong>logo image</strong>. "
 "For example <em>//your_website_url_here/wp-content/themes/themeXXXX/images/"
@@ -986,11 +1065,11 @@ msgstr ""
 "votre logo</strong>. Par exemple <em>//adresse de votre site ici/wp-content/"
 "themes/themeXXXX/images/logo.png</em>"
 
-#: ../includes/locals.php:150
+#: CherryFramework/includes/locals.php:152
 msgid "Favicon"
 msgstr "Favicon"
 
-#: ../includes/locals.php:151
+#: CherryFramework/includes/locals.php:153
 msgid ""
 "Click Upload or Enter the direct path to your <strong>favicon</strong>. For "
 "example <em>//your_website_url_here/wp-content/themes/themeXXXX/favicon.ico</"
@@ -1000,329 +1079,334 @@ msgstr ""
 "<strong>favicon</strong>. Par exemple <em>//adresse de votre site ici/wp-"
 "content/themes/themeXXXX/favicon.ico</em>"
 
-#: ../includes/locals.php:152
+#: CherryFramework/includes/locals.php:154
 msgid "Logo Color"
 msgstr "Couleur du logo"
 
-#: ../includes/locals.php:155
+#: CherryFramework/includes/locals.php:157
 msgid "Navigation"
 msgstr "Navigation"
 
-#: ../includes/locals.php:156
+#: CherryFramework/includes/locals.php:158
 msgid "Menu Typography"
 msgstr "Menu Typographie"
 
-#: ../includes/locals.php:158
+#: CherryFramework/includes/locals.php:160
 msgid "Delay"
 msgstr "retard"
 
-#: ../includes/locals.php:159
+#: CherryFramework/includes/locals.php:161
 msgid "Miliseconds delay on mouseout."
 msgstr "Millisecondes de retard sur mouseout."
 
-#: ../includes/locals.php:160
+#: CherryFramework/includes/locals.php:162
 msgid "Fade-in animation"
 msgstr "Fondu dans l'animation"
 
-#: ../includes/locals.php:161
+#: CherryFramework/includes/locals.php:163
 msgid "Fade-in animation."
 msgstr "Fondu dans l'animation."
 
-#: ../includes/locals.php:162 ../includes/locals.php:163
+#: CherryFramework/includes/locals.php:164
+#: CherryFramework/includes/locals.php:165
 msgid "Slide-down animation."
 msgstr "Faites glisser vers le bas animation."
 
-#: ../includes/locals.php:164
+#: CherryFramework/includes/locals.php:166
 msgid "Enable fade-in animation"
 msgstr "Activer l'animation de fade-in"
 
-#: ../includes/locals.php:165
+#: CherryFramework/includes/locals.php:167
 msgid "Disable fade-in animation"
 msgstr "Désactiver l'animation de fade-in"
 
-#: ../includes/locals.php:166
+#: CherryFramework/includes/locals.php:168
 msgid "Enable slide-down animation"
 msgstr "Activer animation glisser vers le bas"
 
-#: ../includes/locals.php:167
+#: CherryFramework/includes/locals.php:169
 msgid "Disable slide-down animation"
 msgstr "Désactiver l'animation glisser vers le bas"
 
-#: ../includes/locals.php:168
+#: CherryFramework/includes/locals.php:170
 msgid "Speed"
 msgstr "vitesse"
 
-#: ../includes/locals.php:169
+#: CherryFramework/includes/locals.php:171
 msgid "Animation speed."
 msgstr "Vitesse d'animation."
 
-#: ../includes/locals.php:170
+#: CherryFramework/includes/locals.php:172
 msgid "Arrows markup."
 msgstr "Flèches balisage."
 
-#: ../includes/locals.php:171
+#: CherryFramework/includes/locals.php:173
 msgid "Do you want to generate arrow mark-up?"
 msgstr "Voulez-vous générer flèche majoration?"
 
-#: ../includes/locals.php:172
+#: CherryFramework/includes/locals.php:174
 msgid "Mobile menu label."
 msgstr "Étiquette de menu Mobile."
 
-#: ../includes/locals.php:173
+#: CherryFramework/includes/locals.php:175
 msgid "This text is visible in mobile select menu."
 msgstr "Ce texte est visible dans le menu de sélection mobile."
 
-#: ../includes/locals.php:174
+#: CherryFramework/includes/locals.php:176
 msgid "Navigate to..."
 msgstr "Accédez à ..."
 
-#: ../includes/locals.php:175
+#: CherryFramework/includes/locals.php:177
 msgid "Header Menu Font"
 msgstr "Police d'écriture du menu supérieur"
 
-#: ../includes/locals.php:176
+#: CherryFramework/includes/locals.php:178
 msgid "Header Menu Color"
 msgstr "Couleur du menu supérieur"
 
-#: ../includes/locals.php:177
+#: CherryFramework/includes/locals.php:179
 msgid "Use stickUp menu"
 msgstr ""
 
-#: ../includes/locals.php:178
+#: CherryFramework/includes/locals.php:180
 msgid "Do you want to use stickUp menu?"
 msgstr ""
 
-#: ../includes/locals.php:181
+#: CherryFramework/includes/locals.php:183
 msgid "Slider Settings"
 msgstr "Paramètres Slider"
 
-#: ../includes/locals.php:182
+#: CherryFramework/includes/locals.php:184
 msgid "Slider"
 msgstr "Slider"
 
-#: ../includes/locals.php:183
+#: CherryFramework/includes/locals.php:185
 msgid "The type of slider"
 msgstr "Le type de curseur"
 
-#: ../includes/locals.php:184
+#: CherryFramework/includes/locals.php:186
 msgid "You can choose the type of slider that suits you best."
 msgstr "Vous pouvez choisir le type de curseur qui vous convient le mieux."
 
-#: ../includes/locals.php:185
+#: CherryFramework/includes/locals.php:187
 msgid "Disable slider"
 msgstr "désactiver curseur"
 
-#: ../includes/locals.php:186 ../includes/locals.php:232
-#: ../includes/locals.php:503
+#: CherryFramework/includes/locals.php:188
+#: CherryFramework/includes/locals.php:234
+#: CherryFramework/includes/locals.php:505
 msgid "Slideshow"
 msgstr "diaporama"
 
-#: ../includes/locals.php:187 ../includes/locals.php:489
+#: CherryFramework/includes/locals.php:189
+#: CherryFramework/includes/locals.php:491
 msgid "Slides"
 msgstr "diapositives"
 
-#: ../includes/locals.php:188
+#: CherryFramework/includes/locals.php:190
 msgid "Sliding effect"
 msgstr "effet de glissement"
 
-#: ../includes/locals.php:189
+#: CherryFramework/includes/locals.php:191
 msgid "Select your animation type."
 msgstr "Choisissez votre type d'animation."
 
-#: ../includes/locals.php:190
+#: CherryFramework/includes/locals.php:192
 msgid "random"
 msgstr "aléatoire"
 
-#: ../includes/locals.php:191
+#: CherryFramework/includes/locals.php:193
 msgid "simpleFade"
 msgstr "simples Fade"
 
-#: ../includes/locals.php:192
+#: CherryFramework/includes/locals.php:194
 msgid "curtainTopLeft"
 msgstr "rideau en haut à gauche"
 
-#: ../includes/locals.php:193
+#: CherryFramework/includes/locals.php:195
 msgid "curtainTopRight"
 msgstr "rideau en haut à droite"
 
-#: ../includes/locals.php:194
+#: CherryFramework/includes/locals.php:196
 msgid "curtainBottomLeft"
 msgstr "rideau bas à gauche"
 
-#: ../includes/locals.php:195
+#: CherryFramework/includes/locals.php:197
 msgid "curtainBottomRight"
 msgstr "rideau bas à droite"
 
-#: ../includes/locals.php:196
+#: CherryFramework/includes/locals.php:198
 msgid "curtainSliceLeft"
 msgstr "Rideaux poux Gauche"
 
-#: ../includes/locals.php:197
+#: CherryFramework/includes/locals.php:199
 msgid "curtainSliceRight"
 msgstr "Rideaux poux droit"
 
-#: ../includes/locals.php:198
+#: CherryFramework/includes/locals.php:200
 msgid "blindCurtainTopLeft"
 msgstr "aveugle rideau en haut à gauche"
 
-#: ../includes/locals.php:199
+#: CherryFramework/includes/locals.php:201
 msgid "blindCurtainTopRight"
 msgstr "aveugle rideau haut à droite"
 
-#: ../includes/locals.php:200
+#: CherryFramework/includes/locals.php:202
 msgid "blindCurtainBottomLeft"
 msgstr "Rideau aveugle bas à gauche"
 
-#: ../includes/locals.php:201
+#: CherryFramework/includes/locals.php:203
 msgid "blindCurtainBottomRight"
 msgstr "Rideau aveugle bas à droite"
 
-#: ../includes/locals.php:202
+#: CherryFramework/includes/locals.php:204
 msgid "blindCurtainSliceBottom"
 msgstr "aveugle Bas rideau Slice"
 
-#: ../includes/locals.php:203
+#: CherryFramework/includes/locals.php:205
 msgid "blindCurtainSliceTop"
 msgstr "aveugle rideau tranche supérieure"
 
-#: ../includes/locals.php:204
+#: CherryFramework/includes/locals.php:206
 msgid "stampede"
 msgstr "bousculade"
 
-#: ../includes/locals.php:205
+#: CherryFramework/includes/locals.php:207
 msgid "mosaic"
 msgstr "mosaïque"
 
-#: ../includes/locals.php:206
+#: CherryFramework/includes/locals.php:208
 msgid "mosaicReverse"
 msgstr "mosaïque n º"
 
-#: ../includes/locals.php:207
+#: CherryFramework/includes/locals.php:209
 msgid "mosaicRandom"
 msgstr "mosaïque aléatoire"
 
-#: ../includes/locals.php:208
+#: CherryFramework/includes/locals.php:210
 msgid "mosaicSpiral"
 msgstr "mosaïque en spirale"
 
-#: ../includes/locals.php:209
+#: CherryFramework/includes/locals.php:211
 msgid "mosaicSpiralReverse"
 msgstr "mosaïque spirale inverse"
 
-#: ../includes/locals.php:210
+#: CherryFramework/includes/locals.php:212
 msgid "topLeftBottomRight"
 msgstr "En haut à gauche En bas à droite"
 
-#: ../includes/locals.php:211
+#: CherryFramework/includes/locals.php:213
 msgid "bottomRightTopLeft"
 msgstr "En bas à droite en haut à gauche"
 
-#: ../includes/locals.php:212
+#: CherryFramework/includes/locals.php:214
 msgid "bottomLeftTopRight"
 msgstr "En bas à gauche En haut à droite"
 
-#: ../includes/locals.php:213 ../includes/locals.php:214
+#: CherryFramework/includes/locals.php:215
+#: CherryFramework/includes/locals.php:216
 msgid "Number of columns"
 msgstr "Nombre de colonnes"
 
-#: ../includes/locals.php:215 ../includes/locals.php:216
+#: CherryFramework/includes/locals.php:217
+#: CherryFramework/includes/locals.php:218
 msgid "Number of rows"
 msgstr "Nombre de lignes"
 
-#: ../includes/locals.php:217
+#: CherryFramework/includes/locals.php:219
 msgid "Banner effect"
 msgstr "Effet de la bannière"
 
-#: ../includes/locals.php:218
+#: CherryFramework/includes/locals.php:220
 msgid "moveFromLeft"
 msgstr "déplacer de gauche"
 
-#: ../includes/locals.php:219
+#: CherryFramework/includes/locals.php:221
 msgid "moveFromRight"
 msgstr "déplacer de droite"
 
-#: ../includes/locals.php:220
+#: CherryFramework/includes/locals.php:222
 msgid "moveFromTop"
 msgstr "déplacer De Haut"
 
-#: ../includes/locals.php:221
+#: CherryFramework/includes/locals.php:223
 msgid "moveFromBottom"
 msgstr "déplacer à partir du bas"
 
-#: ../includes/locals.php:222
+#: CherryFramework/includes/locals.php:224
 msgid "fadeIn"
 msgstr "fade In"
 
-#: ../includes/locals.php:223
+#: CherryFramework/includes/locals.php:225
 msgid "fadeFromLeft"
 msgstr "s'estomper De Gauche"
 
-#: ../includes/locals.php:224
+#: CherryFramework/includes/locals.php:226
 msgid "fadeFromRight"
 msgstr "s'estomper De droit"
 
-#: ../includes/locals.php:225
+#: CherryFramework/includes/locals.php:227
 msgid "fadeFromTop"
 msgstr "s'estomper à partir du haut"
 
-#: ../includes/locals.php:226
+#: CherryFramework/includes/locals.php:228
 msgid "fadeFromBottom"
 msgstr "s'estomper à partir du bas"
 
-#: ../includes/locals.php:227
+#: CherryFramework/includes/locals.php:229
 msgid "Select your banner animation type."
 msgstr "Sélectionnez votre bannière type d'animation."
 
-#: ../includes/locals.php:228
+#: CherryFramework/includes/locals.php:230
 msgid "Pause time"
 msgstr "temps de pause"
 
-#: ../includes/locals.php:229
+#: CherryFramework/includes/locals.php:231
 msgid "Pause time (ms)."
 msgstr "Temps de pause (ms)."
 
-#: ../includes/locals.php:230
+#: CherryFramework/includes/locals.php:232
 msgid "Animation speed"
 msgstr "Vitesse d'animation"
 
-#: ../includes/locals.php:231
+#: CherryFramework/includes/locals.php:233
 msgid "Animation speed (ms)"
 msgstr "Vitesse d'animation (ms)"
 
-#: ../includes/locals.php:233
+#: CherryFramework/includes/locals.php:235
 msgid "Animate slider automatically?"
 msgstr "Animer curseur automatiquement?"
 
-#: ../includes/locals.php:234
+#: CherryFramework/includes/locals.php:236
 msgid "Thumbnails"
 msgstr "vignettes"
 
-#: ../includes/locals.php:235
+#: CherryFramework/includes/locals.php:237
 msgid "Display thumbnails?"
 msgstr "Afficher les vignettes?"
 
-#: ../includes/locals.php:236
+#: CherryFramework/includes/locals.php:238
 msgid "Pagination"
 msgstr "pagination"
 
-#: ../includes/locals.php:237
+#: CherryFramework/includes/locals.php:239
 msgid "Display pagination?"
 msgstr "Afficher la pagination?"
 
-#: ../includes/locals.php:238
+#: CherryFramework/includes/locals.php:240
 msgid "Next & Prev navigation"
 msgstr "Suivant et Précédent navigation"
 
-#: ../includes/locals.php:239
+#: CherryFramework/includes/locals.php:241
 msgid "Display next & prev navigation?"
 msgstr "Afficher la navigation suivant et précédent?"
 
-#: ../includes/locals.php:240
+#: CherryFramework/includes/locals.php:242
 msgid "Display next & prev navigation only on hover?"
 msgstr ""
 "Afficher la navigation suivant et précédent que sur le vol stationnaire?"
 
-#: ../includes/locals.php:241
+#: CherryFramework/includes/locals.php:243
 msgid ""
 "If true the navigation button (prev, next and play/stop buttons) will be "
 "visible on hover state only, if false they will be visible always"
@@ -1331,43 +1415,43 @@ msgstr ""
 "arrêt) sera visible sur l'état stationnaire que, si elle est fausse, ils "
 "seront toujours visible"
 
-#: ../includes/locals.php:242
+#: CherryFramework/includes/locals.php:244
 msgid "Play/Pause button"
 msgstr "Bouton Lecture / Pause"
 
-#: ../includes/locals.php:243
+#: CherryFramework/includes/locals.php:245
 msgid "Display Play/Pause button?"
 msgstr "Bouton Affichage Lecture / Pause?"
 
-#: ../includes/locals.php:244
+#: CherryFramework/includes/locals.php:246
 msgid "Pause on hover"
 msgstr ""
 
-#: ../includes/locals.php:245
+#: CherryFramework/includes/locals.php:247
 msgid "Stop slideshow on hover?"
 msgstr ""
 
-#: ../includes/locals.php:246
+#: CherryFramework/includes/locals.php:248
 msgid "Loader"
 msgstr "chargeur"
 
-#: ../includes/locals.php:247
+#: CherryFramework/includes/locals.php:249
 msgid "Slider loader"
 msgstr "curseur chargeur"
 
-#: ../includes/locals.php:248
+#: CherryFramework/includes/locals.php:250
 msgid "Pie"
 msgstr "tarte"
 
-#: ../includes/locals.php:249
+#: CherryFramework/includes/locals.php:251
 msgid "Bar"
 msgstr "bar"
 
-#: ../includes/locals.php:252
+#: CherryFramework/includes/locals.php:254
 msgid "Slides to display"
 msgstr "Diapositives à afficher"
 
-#: ../includes/locals.php:253
+#: CherryFramework/includes/locals.php:255
 msgid ""
 "Select the slides that you want to be displayed on slider. If no slide is "
 "selected, all slides will be displayed."
@@ -1376,21 +1460,21 @@ msgstr ""
 "aucune diapositive est sélectionnée, toutes les diapositives seront "
 "affichées."
 
-#: ../includes/locals.php:254
+#: CherryFramework/includes/locals.php:256
 msgid "Pause on mouseover"
 msgstr "Pause sur la souris sur"
 
-#: ../includes/locals.php:255
+#: CherryFramework/includes/locals.php:257
 msgid "The auto play will pause when you mouse over the slider."
 msgstr ""
 "La lecture automatique se met en pause quand vous passez la souris sur le "
 "curseur."
 
-#: ../includes/locals.php:256
+#: CherryFramework/includes/locals.php:258
 msgid "Animation slowdown"
 msgstr "Animations ralentissement"
 
-#: ../includes/locals.php:257
+#: CherryFramework/includes/locals.php:259
 msgid ""
 "You can choose different types of animation slowdown for transition of "
 "slides."
@@ -1398,34 +1482,34 @@ msgstr ""
 "Vous pouvez choisir différents types d'animation ralentissement de la "
 "transition de diapositive"
 
-#: ../includes/locals.php:258
+#: CherryFramework/includes/locals.php:260
 msgid "Mouse events for transition of slides"
 msgstr "es événements de souris pour la transition de diapositives"
 
-#: ../includes/locals.php:259
+#: CherryFramework/includes/locals.php:261
 msgid ""
 "You can choose different types of mouse events for transition of slides."
 msgstr ""
 "Vous pouvez choisir différents types d'événements de souris pour la "
 "transition de diapositives."
 
-#: ../includes/locals.php:260
+#: CherryFramework/includes/locals.php:262
 msgid "Click"
 msgstr "Cliquez"
 
-#: ../includes/locals.php:261
+#: CherryFramework/includes/locals.php:263
 msgid "Mouseover"
 msgstr "Déplacez votre curseur"
 
-#: ../includes/locals.php:262
+#: CherryFramework/includes/locals.php:264
 msgid "Double click"
 msgstr "Double-cliquez"
 
-#: ../includes/locals.php:263
+#: CherryFramework/includes/locals.php:265
 msgid "Active slide"
 msgstr "diapositive active"
 
-#: ../includes/locals.php:264
+#: CherryFramework/includes/locals.php:266
 msgid ""
 "Set the number of slide that will be active by default. If the value is 0, "
 "all slides will be of the same width when page loads."
@@ -1434,192 +1518,192 @@ msgstr ""
 "est 0, toutes les diapositives seront de la même largeur lorsque chargement "
 "de la page."
 
-#: ../includes/locals.php:265
+#: CherryFramework/includes/locals.php:267
 msgid "linear"
 msgstr "linéaire"
 
-#: ../includes/locals.php:266
+#: CherryFramework/includes/locals.php:268
 msgid "easeInSine"
 msgstr "Dans faciliter Sine"
 
-#: ../includes/locals.php:267
+#: CherryFramework/includes/locals.php:269
 msgid "easeOutSine"
 msgstr "Tirez sur Sine"
 
-#: ../includes/locals.php:268
+#: CherryFramework/includes/locals.php:270
 msgid "easeInOutSine"
 msgstr "Dans faciliter Me connecter"
 
-#: ../includes/locals.php:269
+#: CherryFramework/includes/locals.php:271
 msgid "easeInQuad"
 msgstr "faciliter En Quad"
 
-#: ../includes/locals.php:270
+#: CherryFramework/includes/locals.php:272
 msgid "easeOutQuad"
 msgstr "faciliter Out Quad"
 
-#: ../includes/locals.php:271
+#: CherryFramework/includes/locals.php:273
 msgid "easeInOutQuad"
 msgstr "faciliter In Out Quad"
 
-#: ../includes/locals.php:272
+#: CherryFramework/includes/locals.php:274
 msgid "easeInCubic"
 msgstr "Dans faciliter cubique"
 
-#: ../includes/locals.php:273
+#: CherryFramework/includes/locals.php:275
 msgid "easeOutCubic"
 msgstr "faciliter Out cubique"
 
-#: ../includes/locals.php:274
+#: CherryFramework/includes/locals.php:276
 msgid "easeInOutCubic"
 msgstr "faciliter In Out cubique"
 
-#: ../includes/locals.php:275
+#: CherryFramework/includes/locals.php:277
 msgid "easeInQuart"
 msgstr "Facilité à Quart"
 
-#: ../includes/locals.php:276
+#: CherryFramework/includes/locals.php:278
 msgid "easeOutQuart"
 msgstr "faciliter Out Quart"
 
-#: ../includes/locals.php:277
+#: CherryFramework/includes/locals.php:279
 msgid "easeInOutQuart"
 msgstr "faciliter In Out Quart"
 
-#: ../includes/locals.php:278
+#: CherryFramework/includes/locals.php:280
 msgid "easeInQuint"
 msgstr "Facilité à Quint"
 
-#: ../includes/locals.php:279
+#: CherryFramework/includes/locals.php:281
 msgid "easeOutQuint"
 msgstr "faciliter Out Quint"
 
-#: ../includes/locals.php:280
+#: CherryFramework/includes/locals.php:282
 msgid "easeInOutQuint"
 msgstr "faciliter In Out Quint"
 
-#: ../includes/locals.php:281
+#: CherryFramework/includes/locals.php:283
 msgid "easeInExpo"
 msgstr "Dans faciliter Expo"
 
-#: ../includes/locals.php:282
+#: CherryFramework/includes/locals.php:284
 msgid "easeOutExpo"
 msgstr "faciliter Out Expo"
 
-#: ../includes/locals.php:283
+#: CherryFramework/includes/locals.php:285
 msgid "easeInOutExpo"
 msgstr "Dans faciliter Expo Out"
 
-#: ../includes/locals.php:284
+#: CherryFramework/includes/locals.php:286
 msgid "easeInCirc"
 msgstr "l'aise dans Circ"
 
-#: ../includes/locals.php:285
+#: CherryFramework/includes/locals.php:287
 msgid "easeOutCirc"
 msgstr "faciliter Out Circ"
 
-#: ../includes/locals.php:286
+#: CherryFramework/includes/locals.php:288
 msgid "easeInOutCirc"
 msgstr "faciliter Out Circ..."
 
-#: ../includes/locals.php:287
+#: CherryFramework/includes/locals.php:289
 msgid "easeInBack"
 msgstr "faciliter In Out Circ"
 
-#: ../includes/locals.php:288
+#: CherryFramework/includes/locals.php:290
 msgid "easeOutBack"
 msgstr "faciliter Out Back"
 
-#: ../includes/locals.php:289
+#: CherryFramework/includes/locals.php:291
 msgid "easeInOutBack"
 msgstr "Dans faciliter Out Back"
 
-#: ../includes/locals.php:290
+#: CherryFramework/includes/locals.php:292
 msgid "easeInElastic"
 msgstr "Facilité à élastique"
 
-#: ../includes/locals.php:291
+#: CherryFramework/includes/locals.php:293
 msgid "easeOutElastic"
 msgstr "faciliter rupture élastique"
 
-#: ../includes/locals.php:292
+#: CherryFramework/includes/locals.php:294
 msgid "easeInOutElastic"
 msgstr "faciliter En rupture élastique"
 
-#: ../includes/locals.php:293
+#: CherryFramework/includes/locals.php:295
 msgid "easeInBounce"
 msgstr "Introduisez délicatement Rebond"
 
-#: ../includes/locals.php:294
+#: CherryFramework/includes/locals.php:296
 msgid "easeOutBounce"
 msgstr "faciliter Out Bounce"
 
-#: ../includes/locals.php:295
+#: CherryFramework/includes/locals.php:297
 msgid "easeInOutBounce"
 msgstr "faciliter In Out Bounce"
 
-#: ../includes/locals.php:298
+#: CherryFramework/includes/locals.php:300
 msgid "Blog"
 msgstr "Blog"
 
-#: ../includes/locals.php:299
+#: CherryFramework/includes/locals.php:301
 msgid "Blog Title"
 msgstr "Titre du blog"
 
-#: ../includes/locals.php:300
+#: CherryFramework/includes/locals.php:302
 msgid "Enter Your Blog Title used on Blog page."
 msgstr "Entrez votre blog Titre utilisé sur la page Blog."
 
-#: ../includes/locals.php:301
+#: CherryFramework/includes/locals.php:303
 msgid "Related Posts Title"
 msgstr "Titre de Postes Lié"
 
-#: ../includes/locals.php:302
+#: CherryFramework/includes/locals.php:304
 msgid "Enter Your Title used on Single Post page for related posts."
 msgstr ""
 "Entrez dans Votre Titre utilisé à la page Postale Seule pour des postes liés."
 
-#: ../includes/locals.php:303
+#: CherryFramework/includes/locals.php:305
 msgid "Related Posts"
 msgstr "Postes Liés"
 
-#: ../includes/locals.php:304
+#: CherryFramework/includes/locals.php:306
 msgid "Blog layout"
 msgstr "Disposition du blog"
 
-#: ../includes/locals.php:305
+#: CherryFramework/includes/locals.php:307
 msgid "Choose blog layout."
 msgstr "Choisissez la disposition de blog."
 
-#: ../includes/locals.php:306
+#: CherryFramework/includes/locals.php:308
 msgid "Aside left."
 msgstr "De côté gauche."
 
-#: ../includes/locals.php:307
+#: CherryFramework/includes/locals.php:309
 msgid "Aside right."
 msgstr "De côté droit."
 
-#: ../includes/locals.php:308
+#: CherryFramework/includes/locals.php:310
 msgid "Full width."
 msgstr "Largeur pleine."
 
-#: ../includes/locals.php:309
+#: CherryFramework/includes/locals.php:311
 msgid "Masonry."
 msgstr "Maçonnerie."
 
-#: ../includes/locals.php:310
+#: CherryFramework/includes/locals.php:312
 msgid "Blog image size"
 msgstr "Taille d'image de blog"
 
-#: ../includes/locals.php:311
+#: CherryFramework/includes/locals.php:313
 msgid "Featured image size on the blog."
 msgstr "Taille d'image Représentée sur le blog."
 
-#: ../includes/locals.php:312
+#: CherryFramework/includes/locals.php:314
 msgid "Should images be uploaded on page scroll?"
 msgstr "Les images devraient-elles être téléchargées sur le rouleau de page ?"
 
-#: ../includes/locals.php:313
+#: CherryFramework/includes/locals.php:315
 msgid ""
 "You can enable images load only as you scroll down the page. Otherwise "
 "images will load all at once."
@@ -1627,225 +1711,229 @@ msgstr ""
 "Vous pouvez activer les images se chargent uniquement lorsque vous faites "
 "défiler la page. Sinon images se chargent à la fois."
 
-#: ../includes/locals.php:314 ../includes/locals.php:315
+#: CherryFramework/includes/locals.php:316
+#: CherryFramework/includes/locals.php:317
 msgid "Display share button in single post?"
 msgstr "Afficher le bouton de l'action en seul poste?"
 
-#: ../includes/locals.php:316
+#: CherryFramework/includes/locals.php:318
 msgid "Single post image size"
 msgstr "Taille unique poste d'image"
 
-#: ../includes/locals.php:317
+#: CherryFramework/includes/locals.php:319
 msgid "Featured image size on the single page."
 msgstr "Taille de l'image sélectionnée sur la page unique."
 
-#: ../includes/locals.php:318
+#: CherryFramework/includes/locals.php:320
 msgid "View meta of the blog."
 msgstr "Voir méta du blog."
 
-#: ../includes/locals.php:319
+#: CherryFramework/includes/locals.php:321
 msgid "Select meta block type which will be displayed on blog and post pages."
 msgstr ""
 "Sélectionnez méta type de bloc qui sera affiché sur le blog et soumettre "
 "pages."
 
-#: ../includes/locals.php:320
+#: CherryFramework/includes/locals.php:322
 msgid "Display meta."
 msgstr ""
 
-#: ../includes/locals.php:321
+#: CherryFramework/includes/locals.php:323
 msgid "Select where to display meta block."
 msgstr ""
 
-#: ../includes/locals.php:322
+#: CherryFramework/includes/locals.php:324
 msgid "Only blog."
 msgstr ""
 
-#: ../includes/locals.php:323
+#: CherryFramework/includes/locals.php:325
 msgid "Only post."
 msgstr ""
 
-#: ../includes/locals.php:324
+#: CherryFramework/includes/locals.php:326
 msgid "Blog and post."
 msgstr ""
 
-#: ../includes/locals.php:325
+#: CherryFramework/includes/locals.php:327
 msgid "Enable excerpt for blog posts?"
 msgstr "Activer extrait de blog?"
 
-#: ../includes/locals.php:326
+#: CherryFramework/includes/locals.php:328
 msgid "Enable or Disable excerpt for blog posts."
 msgstr "Activer ou désactiver extrait de blog."
 
-#: ../includes/locals.php:327 ../includes/locals.php:328
+#: CherryFramework/includes/locals.php:329
+#: CherryFramework/includes/locals.php:330
 msgid "Button text for blog posts."
 msgstr "Texte du bouton pour les messages blog .."
 
-#: ../includes/locals.php:329
+#: CherryFramework/includes/locals.php:331
 msgid "Do not show."
 msgstr "Ne pas montrer."
 
-#: ../includes/locals.php:330
+#: CherryFramework/includes/locals.php:332
 msgid "Lines."
 msgstr "Lignes."
 
-#: ../includes/locals.php:331
+#: CherryFramework/includes/locals.php:333
 msgid "Columns."
 msgstr "Colonnes."
 
-#: ../includes/locals.php:332
+#: CherryFramework/includes/locals.php:334
 msgid "Icons."
 msgstr "Icônes."
 
-#: ../includes/locals.php:333
+#: CherryFramework/includes/locals.php:335
 msgid "Post publication date."
 msgstr "Poster date de publication."
 
-#: ../includes/locals.php:334
+#: CherryFramework/includes/locals.php:336
 msgid "Should the post publication date be displayed?"
 msgstr "Si la date de publication poste affiché?"
 
-#: ../includes/locals.php:335
+#: CherryFramework/includes/locals.php:337
 msgid "Author of the post."
 msgstr "Auteur de la poste."
 
-#: ../includes/locals.php:336
+#: CherryFramework/includes/locals.php:338
 msgid "Display the author of the post?"
 msgstr "Afficher l'auteur de l'article?"
 
-#: ../includes/locals.php:337
+#: CherryFramework/includes/locals.php:339
 msgid "Direct link to the post."
 msgstr "Lien direct vers le poste."
 
-#: ../includes/locals.php:338
+#: CherryFramework/includes/locals.php:340
 msgid "Should the direct link to the post be displayed? "
 msgstr "Si le lien direct vers le poste affiché?"
 
-#: ../includes/locals.php:339
+#: CherryFramework/includes/locals.php:341
 msgid "Post categories."
 msgstr "Poster catégories."
 
-#: ../includes/locals.php:340
+#: CherryFramework/includes/locals.php:342
 msgid "Should the post categories be displayed?"
 msgstr "Si les catégories de poste sont affichés?"
 
-#: ../includes/locals.php:341
+#: CherryFramework/includes/locals.php:343
 msgid "Tags be displayed."
 msgstr "Balises être affichés."
 
-#: ../includes/locals.php:342
+#: CherryFramework/includes/locals.php:344
 msgid "Should the tags be displayed?"
 msgstr "Si les étiquettes sont affichées?"
 
-#: ../includes/locals.php:343
+#: CherryFramework/includes/locals.php:345
 msgid "Number of comments."
 msgstr "Nombre de commentaires."
 
-#: ../includes/locals.php:344
+#: CherryFramework/includes/locals.php:346
 msgid "Should the number of comments be displayed?"
 msgstr "Si le nombre de commentaires est affiché?"
 
-#: ../includes/locals.php:345 ../includes/locals.php:673
+#: CherryFramework/includes/locals.php:347
+#: CherryFramework/includes/locals.php:675
 msgid "Number of view."
 msgstr "Nombre de vue."
 
-#: ../includes/locals.php:346
+#: CherryFramework/includes/locals.php:348
 msgid "Should the number of view be displayed?"
 msgstr "Si le nombre de vue affiché?"
 
-#: ../includes/locals.php:347
+#: CherryFramework/includes/locals.php:349
 msgid "Number of likes."
 msgstr "Nombre de J'aime."
 
-#: ../includes/locals.php:348
+#: CherryFramework/includes/locals.php:350
 msgid "Should the number of likes be displayed?"
 msgstr "Si le nombre de aime affiché?"
 
-#: ../includes/locals.php:349
+#: CherryFramework/includes/locals.php:351
 msgid "Number of dislikes."
 msgstr "Nombre de je n'aime pas."
 
-#: ../includes/locals.php:350
+#: CherryFramework/includes/locals.php:352
 msgid "Should the number of dislikes be displayed?"
 msgstr "Le nombre d'aversions devrait-il être montré ?"
 
-#: ../includes/locals.php:354
+#: CherryFramework/includes/locals.php:356
 msgid "Portfolio"
 msgstr "Portefeuille"
 
-#: ../includes/locals.php:355
+#: CherryFramework/includes/locals.php:357
 msgid "Filter"
 msgstr "Filtre"
 
-#: ../includes/locals.php:356
+#: CherryFramework/includes/locals.php:358
 msgid "Portfolio filter."
 msgstr "Filtre de portefeuille."
 
-#: ../includes/locals.php:357
+#: CherryFramework/includes/locals.php:359
 msgid "By category"
 msgstr "Par catégorie"
 
-#: ../includes/locals.php:358
+#: CherryFramework/includes/locals.php:360
 msgid "By tags"
 msgstr "par mots-clés"
 
-#: ../includes/locals.php:359
+#: CherryFramework/includes/locals.php:361
 msgid "Both (by category and tags)"
 msgstr "Les deux (par catégorie et les tags)"
 
-#: ../includes/locals.php:360
+#: CherryFramework/includes/locals.php:362
 msgid "Show title?"
 msgstr "Afficher le titre?"
 
-#: ../includes/locals.php:361
+#: CherryFramework/includes/locals.php:363
 msgid "Enable or Disable title for portfolio posts."
 msgstr "Activer ou désactiver titre de portefeuille messages."
 
-#: ../includes/locals.php:362
+#: CherryFramework/includes/locals.php:364
 msgid "Show excerpt?"
 msgstr "Voir extrait?"
 
-#: ../includes/locals.php:363
+#: CherryFramework/includes/locals.php:365
 msgid "Enable or Disable excerpt for portfolio posts."
 msgstr "Activer ou désactiver extrait de portefeuille messages."
 
-#: ../includes/locals.php:364 ../includes/locals.php:365
+#: CherryFramework/includes/locals.php:366
+#: CherryFramework/includes/locals.php:367
 msgid "Button text for portfolio posts."
 msgstr "Texte du bouton de portefeuille messages."
 
-#: ../includes/locals.php:366
+#: CherryFramework/includes/locals.php:368
 msgid "Excerpt words"
 msgstr "Extrait mots"
 
-#: ../includes/locals.php:367
+#: CherryFramework/includes/locals.php:369
 msgid "Excerpt length (words)."
 msgstr "Extrait longueur (mots)."
 
-#: ../includes/locals.php:368
+#: CherryFramework/includes/locals.php:370
 msgid "Show button?"
 msgstr "Afficher le bouton?"
 
-#: ../includes/locals.php:369
+#: CherryFramework/includes/locals.php:371
 msgid "Enable or Disable button for portfolio posts."
 msgstr "Activer ou désactiver le bouton de portefeuille messages."
 
-#: ../includes/locals.php:370
+#: CherryFramework/includes/locals.php:372
 msgid "Show portfolio meta?"
 msgstr "Afficher portefeuille méta?"
 
-#: ../includes/locals.php:371
+#: CherryFramework/includes/locals.php:373
 msgid "Enable or Disable meta for single portfolio posts."
 msgstr "Activer ou désactiver méta pour les postes de portefeuille simples."
 
-#: ../includes/locals.php:372
+#: CherryFramework/includes/locals.php:374
 msgid "Enable or Disable lightbox for portfolio posts."
 msgstr "Activer ou désactiver la visionneuse de portefeuille messages"
 
-#: ../includes/locals.php:373
+#: CherryFramework/includes/locals.php:375
 msgid "Layout"
 msgstr "disposition"
 
-#: ../includes/locals.php:374
+#: CherryFramework/includes/locals.php:376
 msgid ""
 "Portfolio has different layout modes. You can set and change the layout mode "
 "via this option."
@@ -1853,115 +1941,116 @@ msgstr ""
 "Portefeuille dispose de différents modes de mise en page. Vous pouvez "
 "définir et modifier le mode de mise en page via cette option."
 
-#: ../includes/locals.php:375
+#: CherryFramework/includes/locals.php:377
 msgid "Fit rows"
 msgstr "Rangées convenables"
 
-#: ../includes/locals.php:376
+#: CherryFramework/includes/locals.php:378
 msgid "Masonry"
 msgstr "Maçonnerie"
 
-#: ../includes/locals.php:377
+#: CherryFramework/includes/locals.php:379
 msgid "Single portfolio layout"
 msgstr "Mise en page du portfolio unique"
 
-#: ../includes/locals.php:378
+#: CherryFramework/includes/locals.php:380
 msgid "Single portfolio layout."
 msgstr "Mise en page du portfolio unique."
 
-#: ../includes/locals.php:379
+#: CherryFramework/includes/locals.php:381
 msgid "Fullwidth"
 msgstr "Pleine largeur"
 
-#: ../includes/locals.php:380 ../includes/locals.php:705
+#: CherryFramework/includes/locals.php:382
+#: CherryFramework/includes/locals.php:707
 msgid "Columns"
 msgstr "colonnes"
 
-#: ../includes/locals.php:381
+#: CherryFramework/includes/locals.php:383
 msgid "Gallery-format post portfolio layout"
 msgstr ""
 
-#: ../includes/locals.php:382
+#: CherryFramework/includes/locals.php:384
 msgid "Select portfolio layout for gallery-format post."
 msgstr ""
 
-#: ../includes/locals.php:383
+#: CherryFramework/includes/locals.php:385
 msgid "Portfolio 2 columns items amount"
 msgstr "Portefeuille 2 colonnes articles montant"
 
-#: ../includes/locals.php:384
+#: CherryFramework/includes/locals.php:386
 msgid "Portfolio items amount for Portfolio 2 columns template."
 msgstr "Articles de portefeuille s'élèvent à 2 colonnes portefeuille modèle"
 
-#: ../includes/locals.php:385
+#: CherryFramework/includes/locals.php:387
 msgid "Portfolio 3 columns items amount"
 msgstr "Portefeuille 3 colonnes articles montant"
 
-#: ../includes/locals.php:386
+#: CherryFramework/includes/locals.php:388
 msgid "Portfolio items amount for Portfolio 3 columns template."
 msgstr ""
 "Articles de portefeuille s'élèvent pour le portefeuille 3 colonnes modèle."
 
-#: ../includes/locals.php:387
+#: CherryFramework/includes/locals.php:389
 msgid "Portfolio 4 columns items amount"
 msgstr "Portefeuille 4 colonnes articles montant"
 
-#: ../includes/locals.php:388
+#: CherryFramework/includes/locals.php:390
 msgid "Portfolio items amount for Portfolio 4 columns template."
 msgstr "Articles de portefeuille s'élèvent à 4 colonnes portefeuille modèle."
 
-#: ../includes/locals.php:389
+#: CherryFramework/includes/locals.php:391
 msgid "Sort filter by parameter (orderby)"
 msgstr ""
 
-#: ../includes/locals.php:390
+#: CherryFramework/includes/locals.php:392
 msgid "Sort filter alphabetically or by unique category ID."
 msgstr ""
 
-#: ../includes/locals.php:391
+#: CherryFramework/includes/locals.php:393
 msgid "Sort order for filter"
 msgstr ""
 
-#: ../includes/locals.php:392
+#: CherryFramework/includes/locals.php:394
 msgid "Sort order for filter (either ascending or descending)."
 msgstr ""
 
-#: ../includes/locals.php:393
+#: CherryFramework/includes/locals.php:395
 msgid "Sort retrieved posts by parameter (orderby)"
 msgstr ""
 
-#: ../includes/locals.php:394
+#: CherryFramework/includes/locals.php:396
 msgid "Sort retrieved posts by parameter."
 msgstr ""
 
-#: ../includes/locals.php:395
+#: CherryFramework/includes/locals.php:397
 msgid "Sort order for posts"
 msgstr ""
 
-#: ../includes/locals.php:396
+#: CherryFramework/includes/locals.php:398
 msgid ""
 "Designates the ascending or descending order of the \"orderby\" parameter."
 msgstr ""
 
-#: ../includes/locals.php:399
+#: CherryFramework/includes/locals.php:401
 msgid "Footer"
 msgstr "Footer"
 
-#: ../includes/locals.php:400
+#: CherryFramework/includes/locals.php:402
 msgid "Footer copyright text"
 msgstr "Footer texte de copyright"
 
-#: ../includes/locals.php:401
+#: CherryFramework/includes/locals.php:403
 msgid "Enter text used in the right side of the footer. HTML tags are allowed."
 msgstr ""
 "Entrez le texte utilisé dans le côté droit du pied de page. Les balises HTML "
 "sont autorisés."
 
-#: ../includes/locals.php:402
+#: CherryFramework/includes/locals.php:404
 msgid "Google Analytics Code"
 msgstr "Google Code Analytics."
 
-#: ../includes/locals.php:403
+#: CherryFramework/includes/locals.php:405
 msgid ""
 "You can paste your Google Analytics or other tracking code in this box. This "
 "will be automatically added to the footer."
@@ -1969,11 +2058,11 @@ msgstr ""
 "Vous pouvez coller votre compte Google Analytics ou tout autre code de suivi "
 "dans cette case. Ce sera automatiquement ajouté au pied de page."
 
-#: ../includes/locals.php:404
+#: CherryFramework/includes/locals.php:406
 msgid "Feedburner URL"
 msgstr "Feedburner URL"
 
-#: ../includes/locals.php:405
+#: CherryFramework/includes/locals.php:407
 msgid ""
 "Feedburner is a Google service that takes care of your RSS feed. Paste your "
 "Feedburner URL here to let readers see it in your website."
@@ -1982,19 +2071,19 @@ msgstr ""
 "votre URL Feedburner ici pour permettre aux lecteurs de voir dans votre site "
 "web."
 
-#: ../includes/locals.php:406
+#: CherryFramework/includes/locals.php:408
 msgid "Display Footer Menu?"
 msgstr "Afficher Footer Menu?"
 
-#: ../includes/locals.php:407
+#: CherryFramework/includes/locals.php:409
 msgid "Do you want to display footer menu?"
 msgstr "Voulez-vous afficher le menu de bas de page?"
 
-#: ../includes/locals.php:408
+#: CherryFramework/includes/locals.php:410
 msgid "Footer Menu Typography"
 msgstr "Footer Menu Typographie"
 
-#: ../includes/locals.php:409
+#: CherryFramework/includes/locals.php:411
 msgid ""
 "Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</"
 "strong> symbol will be loaded from the <a href=\"//www.google.com/webfonts"
@@ -2004,27 +2093,27 @@ msgstr ""
 "polices marquées avec le symbole <strong>*</strong> seront chargées à partir "
 "de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
 
-#: ../includes/locals.php:410
+#: CherryFramework/includes/locals.php:412
 msgid "Footer Menu Font"
 msgstr "Police d'écriture du menu du bas"
 
-#: ../includes/locals.php:411
+#: CherryFramework/includes/locals.php:413
 msgid "Footer Menu Color"
 msgstr "Couleur du menu du bas"
 
-#: ../includes/locals.php:431
+#: CherryFramework/includes/locals.php:433
 msgid "Sorry, there has been an error."
 msgstr "Désolé, il ya eu une erreur."
 
-#: ../includes/locals.php:432
+#: CherryFramework/includes/locals.php:434
 msgid "The file does not exist, please "
 msgstr "N'existe pas le fichier, s'il vous plaît"
 
-#: ../includes/locals.php:433
+#: CherryFramework/includes/locals.php:435
 msgid "Please"
 msgstr "s'il vous plaît"
 
-#: ../includes/locals.php:434
+#: CherryFramework/includes/locals.php:436
 #, php-format
 msgid ""
 "This WXR file (version %s) may not be supported by this version of the "
@@ -2033,7 +2122,7 @@ msgstr ""
 "Ce fichier WXR (version %s) ne peut être pris en charge par cette version de "
 "l'importateur. S'il vous plaît envisager de mettre à jour."
 
-#: ../includes/locals.php:435
+#: CherryFramework/includes/locals.php:437
 #, php-format
 msgid ""
 "The export file could not be found at <code>%s</code>. It is likely that "
@@ -2042,7 +2131,7 @@ msgstr ""
 "Le fichier d'exportation n'a pas pu être trouvé à <code>%s</ code>. Il est "
 "probable que cela a été causé par un problème d'autorisations."
 
-#: ../includes/locals.php:436
+#: CherryFramework/includes/locals.php:438
 #, php-format
 msgid ""
 "Failed to import author %s. Their posts will be attributed to the current "
@@ -2051,11 +2140,11 @@ msgstr ""
 "Impossible d'importer auteur %s. Leurs postes seront attribués à "
 "l'utilisateur actuel."
 
-#: ../includes/locals.php:437
+#: CherryFramework/includes/locals.php:439
 msgid "Assign Authors"
 msgstr "attribuer Auteurs"
 
-#: ../includes/locals.php:438
+#: CherryFramework/includes/locals.php:440
 msgid ""
 "To make it easier for you to edit and save the imported content, you may "
 "want to reassign the author of the imported item to an existing user of this "
@@ -2067,7 +2156,7 @@ msgstr ""
 "utilisateur existant de ce site. Par exemple, vous pouvez importer tous les "
 "articles comme <b> administrateur </b> entrées."
 
-#: ../includes/locals.php:439
+#: CherryFramework/includes/locals.php:441
 #, php-format
 msgid ""
 "If a new user is created by WordPress, a new password will be randomly "
@@ -2078,27 +2167,27 @@ msgstr ""
 "seragénéré aléatoirement et le rôle du nouvel utilisateur sera créé en% s. "
 "Modifier manuellement les détails du nouvel utilisateur sera nécessaire."
 
-#: ../includes/locals.php:440
+#: CherryFramework/includes/locals.php:442
 msgid "Download and import file attachments"
 msgstr "Télécharger et fichiers d'importation des pièces jointes"
 
-#: ../includes/locals.php:441
+#: CherryFramework/includes/locals.php:443
 msgid "Import Data"
 msgstr "Importer des données"
 
-#: ../includes/locals.php:442
+#: CherryFramework/includes/locals.php:444
 msgid "Import author:"
 msgstr "Importer auteur:"
 
-#: ../includes/locals.php:443
+#: CherryFramework/includes/locals.php:445
 msgid "assign posts to an existing user:"
 msgstr "attribuer les messages à un utilisateur existant:"
 
-#: ../includes/locals.php:444
+#: CherryFramework/includes/locals.php:446
 msgid "- Select -"
 msgstr "- Sélectionner -"
 
-#: ../includes/locals.php:445
+#: CherryFramework/includes/locals.php:447
 #, php-format
 msgid ""
 "Failed to create new user for %s. Their posts will be attributed to the "
@@ -2107,84 +2196,84 @@ msgstr ""
 "Impossible de créer un nouvel utilisateur pour %s. Leurs postes seront "
 "attribués à l'utilisateur actuel."
 
-#: ../includes/locals.php:446
+#: CherryFramework/includes/locals.php:448
 #, php-format
 msgid "Failed to import category %s "
 msgstr "Échec de la catégorie importer %s"
 
-#: ../includes/locals.php:447
+#: CherryFramework/includes/locals.php:449
 #, php-format
 msgid "Failed to import post tag %s"
 msgstr "Impossible d'importer poste tag %s"
 
-#: ../includes/locals.php:448
+#: CherryFramework/includes/locals.php:450
 #, php-format
 msgid "Failed to import %s %s "
 msgstr "Impossible d'importer %s %s"
 
-#: ../includes/locals.php:449
+#: CherryFramework/includes/locals.php:451
 #, php-format
 msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s "
 msgstr "Impossible d'importer \"%s\": Invalid type de poste %s"
 
-#: ../includes/locals.php:450
+#: CherryFramework/includes/locals.php:452
 #, php-format
 msgid "%s &#8220;%s&#8221; already exists."
 msgstr "%s \"%s\" existe déjà."
 
-#: ../includes/locals.php:451
+#: CherryFramework/includes/locals.php:453
 #, php-format
 msgid "Failed to import %s &#8220;%s&#8221; "
 msgstr "Impossible d'importer \"%s\"%s"
 
-#: ../includes/locals.php:452
+#: CherryFramework/includes/locals.php:454
 msgid "Menu item skipped due to missing menu slug "
 msgstr "Option de menu sauté en raison du manque Menu limace"
 
-#: ../includes/locals.php:453
+#: CherryFramework/includes/locals.php:455
 #, php-format
 msgid "Menu item skipped due to invalid menu slug: %s "
 msgstr "Option de menu sauté raison au menu invalide limace: %s"
 
-#: ../includes/locals.php:454
+#: CherryFramework/includes/locals.php:456
 msgid "Fetching attachments is not enabled "
 msgstr "Obtention des pièces jointes n'est pas activé"
 
-#: ../includes/locals.php:455
+#: CherryFramework/includes/locals.php:457
 msgid "Invalid file type"
 msgstr "Type de fichier non valide"
 
-#: ../includes/locals.php:456
+#: CherryFramework/includes/locals.php:458
 msgid "Remote server did not respond"
 msgstr "Invalid serveur fichier typeRemote n'a pas répondu"
 
-#: ../includes/locals.php:457
+#: CherryFramework/includes/locals.php:459
 #, php-format
 msgid "Remote server returned error response %1$d %2$s "
 msgstr "Serveur distant réponse d'erreur retourné %1$d %2$s "
 
-#: ../includes/locals.php:458
+#: CherryFramework/includes/locals.php:460
 msgid "Remote file is incorrect size "
 msgstr "Fichier distant est taille incorrecte"
 
-#: ../includes/locals.php:459
+#: CherryFramework/includes/locals.php:461
 msgid "Zero size file downloaded "
 msgstr "Zéro fichier téléchargé taille"
 
-#: ../includes/locals.php:460
+#: CherryFramework/includes/locals.php:462
 #, php-format
 msgid "Remote file is too large, limit is %s "
 msgstr "Fichiers à distance est trop grande, la limite est %s"
 
-#: ../includes/locals.php:461
+#: CherryFramework/includes/locals.php:463
 msgid "<span>Step <i>1</i></span> Data Import"
 msgstr "Étape <span> <i>1</ i> </span> Importation de données"
 
-#: ../includes/locals.php:462
+#: CherryFramework/includes/locals.php:464
 msgid "<span>Step <i>2</i></span> Assign Authors"
 msgstr "Étape <span> <i>2</ i> </span> Attribuer Auteurs"
 
-#: ../includes/locals.php:463
+#: CherryFramework/includes/locals.php:465
 #, php-format
 msgid ""
 "A new version of this importer is available. Please update to version %s to "
@@ -2194,7 +2283,7 @@ msgstr ""
 "mettre à jour vers la version %s pour assurer la compatibilité avec les "
 "fichiers d'exportation les plus récents."
 
-#: ../includes/locals.php:464
+#: CherryFramework/includes/locals.php:466
 msgid ""
 "Select (<b>.xml</b>) file to upload sample data.<br>If you do not want to "
 "install sample data from livedemo you need to <b>skip this step</b>."
@@ -2203,7 +2292,7 @@ msgstr ""
 "l'échantillon. <br> Si vous ne voulez pas installer les données de "
 "l'échantillon de LIVEDEMO vous devez <b> sauter cette étape </b>."
 
-#: ../includes/locals.php:465
+#: CherryFramework/includes/locals.php:467
 msgid ""
 "Please note that certain content is already installed. You may simply need "
 "to skip this step. Otherwise, you can proceed with the installation."
@@ -2212,7 +2301,7 @@ msgstr ""
 "tout simplement besoin de sauter cette étape. Sinon, vous pouvez procéder à "
 "l'installation."
 
-#: ../includes/locals.php:467
+#: CherryFramework/includes/locals.php:469
 msgid ""
 "Some of your server settings do not meet the requirements for installing the "
 "sample data. Please, consult with your hosting provider on how to increase "
@@ -2223,19 +2312,19 @@ msgstr ""
 "consultez votrefournisseur d'hébergement sur  la façon d'augmenter les "
 "valeurs requises."
 
-#: ../includes/locals.php:468
+#: CherryFramework/includes/locals.php:470
 msgid "Server Settings"
 msgstr "Paramètres du serveur"
 
-#: ../includes/locals.php:469
+#: CherryFramework/includes/locals.php:471
 msgid "Current"
 msgstr "Courant"
 
-#: ../includes/locals.php:470
+#: CherryFramework/includes/locals.php:472
 msgid "NOTE"
 msgstr "REMARQUE"
 
-#: ../includes/locals.php:471
+#: CherryFramework/includes/locals.php:473
 msgid ""
 "if for some reason those settings can not be adjusted, you may install the "
 "sample data using an <strong>alternative method</strong> - importing the "
@@ -2248,7 +2337,7 @@ msgstr ""
 "fichier directement dans la base de données. Reportez-vous à la "
 "documentation de modèle pour les instructions."
 
-#: ../includes/locals.php:472
+#: CherryFramework/includes/locals.php:474
 msgid ""
 "You can proceed with the template installation without updating server "
 "settings, however in this case you can get errors or only part of your "
@@ -2258,11 +2347,11 @@ msgstr ""
 "paramètres du serveur, mais dans ce cas, vous pouvez avoir des erreurs ou "
 "seulement une partie de votre contenu sera chargé."
 
-#: ../includes/locals.php:473
+#: CherryFramework/includes/locals.php:475
 msgid "Congratulations"
 msgstr "Félicitations"
 
-#: ../includes/locals.php:474
+#: CherryFramework/includes/locals.php:476
 msgid ""
 "You have successfully installed your <b>Cherry WordPress Theme</b>.<br /> "
 "You can look theme now"
@@ -2270,11 +2359,11 @@ msgstr ""
 "Vous avez installé avec succès votre thème <b> cerise WordPress </ b>. <br /"
 "> Vous pouvez consulter thème maintenant"
 
-#: ../includes/locals.php:475
+#: CherryFramework/includes/locals.php:477
 msgid "visit site"
 msgstr "visitez le site"
 
-#: ../includes/locals.php:476
+#: CherryFramework/includes/locals.php:478
 msgid ""
 "You might see only the white screen on the next step. Don't worry, the "
 "importing is being continued. Please wait until the installation is finished."
@@ -2283,7 +2372,7 @@ msgstr ""
 "pas, l'importation se poursuit. S'il vous plaît attendez que l'installation "
 "est terminée."
 
-#: ../includes/locals.php:477
+#: CherryFramework/includes/locals.php:479
 msgid ""
 "<b>Attention:</b> the Jigoshop plugin is not activated. We recommend that "
 "you install and activate this plugin to ensure correct data importing. "
@@ -2294,7 +2383,7 @@ msgstr ""
 "de données correct. Sinon, certaines données peuvent être perdues lors de "
 "l'importation."
 
-#: ../includes/locals.php:478
+#: CherryFramework/includes/locals.php:480
 msgid ""
 "<b>Attention:</b> the WooCommerce plugin is not activated. We recommend that "
 "you install and activate this plugin to ensure correct data importing. "
@@ -2305,18 +2394,18 @@ msgstr ""
 "de données correct. Sinon, certaines données peuvent être perdues lors de "
 "l'importation"
 
-#: ../includes/locals.php:481
+#: CherryFramework/includes/locals.php:483
 msgid "The login information you have entered is incorrect."
 msgstr "Les informations de connexion que vous avez saisies sont incorrectes."
 
-#: ../includes/locals.php:482
+#: CherryFramework/includes/locals.php:484
 msgid ""
 "You need to enable write permissions on your server to use these functions."
 msgstr ""
 "Vous devez activer les permissions d'écriture sur votre serveur pour "
 "utiliser ces fonctions."
 
-#: ../includes/locals.php:483
+#: CherryFramework/includes/locals.php:485
 msgid ""
 "Cherry Framework is not able to perform necessary changes for the correct "
 "work with your child theme."
@@ -2324,7 +2413,7 @@ msgstr ""
 "Cadre cerise n'est pas en mesure d'effectuer les changements nécessaires "
 "pour le travail avec votre thème enfant."
 
-#: ../includes/locals.php:484
+#: CherryFramework/includes/locals.php:486
 msgid ""
 "See <a target=\"_blank\" href=\"//codex.wordpress.org/"
 "Changing_File_Permissions\">the Codex</a> for more information."
@@ -2332,121 +2421,122 @@ msgstr ""
 "Voir <a target=\"_blank\" href=\"//codex.wordpress.org/"
 "Changing_File_Permissions\">le Codex</a> pour plus d'informations."
 
-#: ../includes/locals.php:487
+#: CherryFramework/includes/locals.php:489
 msgid "Header Menu"
 msgstr "Rubrique Menu"
 
-#: ../includes/locals.php:488
+#: CherryFramework/includes/locals.php:490
 msgid "Footer Menu"
 msgstr "Menu pied de page"
 
-#: ../includes/locals.php:490
+#: CherryFramework/includes/locals.php:492
 msgid "Testimonial"
 msgstr "Témoignage"
 
-#: ../includes/locals.php:491
+#: CherryFramework/includes/locals.php:493
 msgid "Services"
 msgstr "Services"
 
-#: ../includes/locals.php:492
+#: CherryFramework/includes/locals.php:494
 msgid "FAQs"
 msgstr "FAQ"
 
-#: ../includes/locals.php:493
+#: CherryFramework/includes/locals.php:495
 msgid "Our Team"
 msgstr "Notre équipe"
 
-#: ../includes/locals.php:494
+#: CherryFramework/includes/locals.php:496
 msgid "Category"
 msgstr "Catégorie"
 
-#: ../includes/locals.php:495
+#: CherryFramework/includes/locals.php:497
 msgid "Tag"
 msgstr "Balise"
 
-#: ../includes/locals.php:498
+#: CherryFramework/includes/locals.php:500
 msgid "Thumbnail"
 msgstr "Vignette"
 
-#: ../includes/locals.php:499
+#: CherryFramework/includes/locals.php:501
 msgid "Your comment is awaiting moderation."
 msgstr "Votre commentaire est en attente de modération."
 
-#: ../includes/locals.php:502
+#: CherryFramework/includes/locals.php:504
 msgid "Please choose desired Portfolio Format and fill additional fields."
 msgstr ""
 "S'il vous plaît choisissez Format souhaité de portefeuille et remplir les "
 "champs supplémentaires."
 
-#: ../includes/locals.php:504
+#: CherryFramework/includes/locals.php:506
 msgid "Grid Gallery"
 msgstr "Galerie de grille"
 
-#: ../includes/locals.php:505
+#: CherryFramework/includes/locals.php:507
 msgid "Portfolio Options"
 msgstr "Options de portefeuille"
 
-#: ../includes/locals.php:506
+#: CherryFramework/includes/locals.php:508
 msgid "Format"
 msgstr "format"
 
-#: ../includes/locals.php:507
+#: CherryFramework/includes/locals.php:509
 msgid "Choose post format that most fit your needs."
 msgstr "Choisissez le format poste qui correspond le mieux à vos besoins."
 
-#: ../includes/locals.php:508
+#: CherryFramework/includes/locals.php:510
 msgid "Input project end date."
 msgstr "Entrée date de fin du projet."
 
-#: ../includes/locals.php:509
+#: CherryFramework/includes/locals.php:511
 msgid "Client"
 msgstr "Client"
 
-#: ../includes/locals.php:510
+#: CherryFramework/includes/locals.php:512
 msgid "Input project owner name."
 msgstr "Projet d'entrée le nom du propriétaire."
 
-#: ../includes/locals.php:511
+#: CherryFramework/includes/locals.php:513
 msgid "Additional info for this portfolio item."
 msgstr "Informations complémentaires pour ce point de portefeuille."
 
-#: ../includes/locals.php:512
+#: CherryFramework/includes/locals.php:514
 msgid "Input the project URL (external link)"
 msgstr "Entrée l'URL du projet (lien externe)"
 
-#: ../includes/locals.php:513 ../includes/locals.php:571
+#: CherryFramework/includes/locals.php:515
+#: CherryFramework/includes/locals.php:573
 msgid "Image Settings"
 msgstr "Paramètres d'image"
 
-#: ../includes/locals.php:514
+#: CherryFramework/includes/locals.php:516
 msgid "Video Settings"
 msgstr "Paramètres vidéo"
 
-#: ../includes/locals.php:515
+#: CherryFramework/includes/locals.php:517
 msgid "Input the video title (for playlist)"
 msgstr "Entrez le titre de la vidéo (pour lecture)"
 
-#: ../includes/locals.php:516
+#: CherryFramework/includes/locals.php:518
 msgid "Artist"
 msgstr "artiste"
 
-#: ../includes/locals.php:517
+#: CherryFramework/includes/locals.php:519
 msgid "Input the video artist (for playlist)."
 msgstr "Entrée de l'artiste vidéo (pour lecture)."
 
-#: ../includes/locals.php:518
+#: CherryFramework/includes/locals.php:520
 msgid "Input URL to the <b>m4v</b> video format."
 msgstr "URL d'entrée à <b> m4v </b> le format de vidéo."
 
-#: ../includes/locals.php:519
+#: CherryFramework/includes/locals.php:521
 msgid "Input URL to the <b>ogv</b> video format."
 msgstr "URL d'entrée à <b> ogv </b> le format de vidéo."
 
-#: ../includes/locals.php:520
+#: CherryFramework/includes/locals.php:522
 msgid "Embedded Code"
 msgstr "Code Incorporé"
 
-#: ../includes/locals.php:521
+#: CherryFramework/includes/locals.php:523
 msgid ""
 "You can include embedded code here.<br><b>Attention!</b> This code overwrite "
 "your video URL(s)."
@@ -2454,88 +2544,88 @@ msgstr ""
 "Vous pouvez inclure le code intégré ici. <br> <b> Attention! </b> Ce code "
 "remplace votre URL de la vidéo (s)."
 
-#: ../includes/locals.php:522
+#: CherryFramework/includes/locals.php:524
 msgid "Audio Settings"
 msgstr "Paramètres Audio"
 
-#: ../includes/locals.php:523
+#: CherryFramework/includes/locals.php:525
 msgid "Input the audio title (for playlist)."
 msgstr "Entrez le titre audio (pour lecture)."
 
-#: ../includes/locals.php:524
+#: CherryFramework/includes/locals.php:526
 msgid "Input the audio artist (for playlist)."
 msgstr "Entrée de l'artiste audio (pour lecture)"
 
-#: ../includes/locals.php:525
+#: CherryFramework/includes/locals.php:527
 msgid "Audio format"
 msgstr "Format audio"
 
-#: ../includes/locals.php:526
+#: CherryFramework/includes/locals.php:528
 msgid "Choose audio format."
 msgstr "Choisissez le format audio."
 
-#: ../includes/locals.php:527
+#: CherryFramework/includes/locals.php:529
 msgid "Audio URL"
 msgstr "URL audio"
 
-#: ../includes/locals.php:528
+#: CherryFramework/includes/locals.php:530
 msgid "Input the audio URL."
 msgstr "Entrez le URL du fichier audio."
 
-#: ../includes/locals.php:531
+#: CherryFramework/includes/locals.php:533
 msgid "Slider Options"
 msgstr "Options de Slider"
 
-#: ../includes/locals.php:532
+#: CherryFramework/includes/locals.php:534
 msgid "Caption"
 msgstr "Légende"
 
-#: ../includes/locals.php:533
+#: CherryFramework/includes/locals.php:535
 msgid "Input your caption for slide (HTML tags are allowed)."
 msgstr ""
 "Saisissez votre légende pour diapositive (les balises HTML sont autorisées)."
 
-#: ../includes/locals.php:534
+#: CherryFramework/includes/locals.php:536
 msgid "Input the slide URL (can be external link)"
 msgstr "Entrez le diaporama URL (peut être lien externe)"
 
-#: ../includes/locals.php:535
+#: CherryFramework/includes/locals.php:537
 msgid "Please fill additional fields for slide."
 msgstr "S'il vous plaît remplir les champs supplémentaires pour diapositive."
 
-#: ../includes/locals.php:538
+#: CherryFramework/includes/locals.php:540
 msgid "Personal Options"
 msgstr "Options Personnelles"
 
-#: ../includes/locals.php:539
+#: CherryFramework/includes/locals.php:541
 msgid "Please fill additional fields for person."
 msgstr "S'il vous plaît remplir les champs supplémentaires pour personne."
 
-#: ../includes/locals.php:540
+#: CherryFramework/includes/locals.php:542
 msgid "Position"
 msgstr "Position"
 
-#: ../includes/locals.php:541
+#: CherryFramework/includes/locals.php:543
 msgid "Input position of the person."
 msgstr "La position de saisie de la personne."
 
-#: ../includes/locals.php:542
+#: CherryFramework/includes/locals.php:544
 msgid "Input additional info."
 msgstr "Entrée des infos supplémentaires."
 
-#: ../includes/locals.php:543
+#: CherryFramework/includes/locals.php:545
 msgid "Social Networks"
 msgstr "Réseaux Sociaux"
 
-#: ../includes/locals.php:544
+#: CherryFramework/includes/locals.php:546
 msgid "Page URL"
 msgstr "URL de la page"
 
-#: ../includes/locals.php:545
+#: CherryFramework/includes/locals.php:547
 msgid "Your Social Networks."
 msgstr "Vos réseaux sociaux."
 
-#: ../includes/locals.php:546
+#: CherryFramework/includes/locals.php:548
 msgid ""
 "In icon field you need to specify the icon name that can be copied from the "
 "<a target=\"_blank\" href=\"//fortawesome.github.io/Font-Awesome/3.2.1/icons/"
@@ -2545,97 +2635,104 @@ msgstr ""
 "copié à partir de <a target=\"_blank\" href=\"//fortawesome.github.io/Font-"
 "Awesome/3.2.1/icons/#brand\">site</a>. E.g. \"icon-facebook\""
 
-#: ../includes/locals.php:547
+#: CherryFramework/includes/locals.php:549
 msgid "Social Networks Title"
 msgstr "Réseaux sociaux Titre"
 
-#: ../includes/locals.php:548
+#: CherryFramework/includes/locals.php:550
 msgid "Specify the heading for the social networks block."
 msgstr "Indiquez le titre du bloc des réseaux sociaux."
 
-#: ../includes/locals.php:549 ../includes/locals.php:559
+#: CherryFramework/includes/locals.php:551
+#: CherryFramework/includes/locals.php:561
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:42
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:57
 msgid "Email"
 msgstr ""
 
-#: ../includes/locals.php:550
+#: CherryFramework/includes/locals.php:552
 msgid "Input email address."
 msgstr ""
 
-#: ../includes/locals.php:553
+#: CherryFramework/includes/locals.php:555
 msgid "Testimonial Options"
 msgstr "Options de Témoignage"
 
-#: ../includes/locals.php:554
+#: CherryFramework/includes/locals.php:556
 msgid "Please fill additional fields for testimonial."
 msgstr "S'il vous plaît remplir les champs supplémentaires pour témoignage."
 
-#: ../includes/locals.php:555 ../includes/locals.php:884
-#: ../includes/locals.php:949
+#: CherryFramework/includes/locals.php:557
+#: CherryFramework/includes/locals.php:886
+#: CherryFramework/includes/locals.php:951
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:39
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:54
 msgid "Name"
 msgstr "Nom"
 
-#: ../includes/locals.php:556
+#: CherryFramework/includes/locals.php:558
 msgid "Input author's name."
 msgstr "Le nom de l'auteur d'entrée."
 
-#: ../includes/locals.php:557
+#: CherryFramework/includes/locals.php:559
 msgid "Input author's URL."
 msgstr "URL de l'auteur d'entrée."
 
-#: ../includes/locals.php:558
+#: CherryFramework/includes/locals.php:560
 msgid "Input author's additional info."
 msgstr "Informations supplémentaires de l'auteur d'entrée."
 
-#: ../includes/locals.php:560
+#: CherryFramework/includes/locals.php:562
 msgid "Input author's email address."
 msgstr ""
 
-#: ../includes/locals.php:563
+#: CherryFramework/includes/locals.php:565
 msgid "Quote Settings"
 msgstr "Paramètres de citation"
 
-#: ../includes/locals.php:564
+#: CherryFramework/includes/locals.php:566
 msgid "The Quote"
 msgstr "La Citation"
 
-#: ../includes/locals.php:565
+#: CherryFramework/includes/locals.php:567
 msgid "Put your quote in this field."
 msgstr "Mettez votre citation dans ce domaine."
 
-#: ../includes/locals.php:566 ../includes/locals.php:773
-#: ../includes/locals.php:885
+#: CherryFramework/includes/locals.php:568
+#: CherryFramework/includes/locals.php:775
+#: CherryFramework/includes/locals.php:887
 msgid "Author"
 msgstr "Auteur"
 
-#: ../includes/locals.php:567
+#: CherryFramework/includes/locals.php:569
 msgid "Put quote author in this field."
 msgstr "Mettez citation auteur dans ce domaine."
 
-#: ../includes/locals.php:568
+#: CherryFramework/includes/locals.php:570
 msgid "Link Settings"
 msgstr "Lien Paramètres"
 
-#: ../includes/locals.php:569
+#: CherryFramework/includes/locals.php:571
 msgid "The URL"
 msgstr "l'URL"
 
-#: ../includes/locals.php:570
+#: CherryFramework/includes/locals.php:572
 msgid "Insert the URL you wish to link to."
 msgstr "Insérez l'URL que vous souhaitez créer un lien."
 
-#: ../includes/locals.php:572
+#: CherryFramework/includes/locals.php:574
 msgid "Input the video title (for playlist)."
 msgstr "Entrez le titre de la vidéo (pour lecture)."
 
-#: ../includes/locals.php:575
+#: CherryFramework/includes/locals.php:577
 msgid "Category Include"
 msgstr "Catégorie Inclure"
 
-#: ../includes/locals.php:576
+#: CherryFramework/includes/locals.php:578
 msgid "The Category Slug"
 msgstr "Catégorie Slug"
 
-#: ../includes/locals.php:577
+#: CherryFramework/includes/locals.php:579
 msgid ""
 "Name of the custom category that is displayed on this page. You need to use "
 "the slug of the category here."
@@ -2643,31 +2740,31 @@ msgstr ""
 "Nom de la catégorie personnalisée qui est affichée sur cette page. Vous "
 "devez utiliser le bouchon de la catégorie ici."
 
-#: ../includes/locals.php:583
+#: CherryFramework/includes/locals.php:585
 msgid "Something went wrong"
 msgstr "Quelque chose a mal tourné"
 
-#: ../includes/locals.php:584
+#: CherryFramework/includes/locals.php:586
 #, php-format
 msgid "This theme requires the following plugin: %1$s."
 msgstr "Ce thème nécessite le plugin suivant:%1$s."
 
-#: ../includes/locals.php:585
+#: CherryFramework/includes/locals.php:587
 #, php-format
 msgid "This theme requires the following plugins: %1$s."
 msgstr "Ce thème nécessite les plugins suivants:%1$s."
 
-#: ../includes/locals.php:586
+#: CherryFramework/includes/locals.php:588
 #, php-format
 msgid "This theme recommends the following plugin: %1$s."
 msgstr "Ce thème recommande le plugin suivant: %1$s.."
 
-#: ../includes/locals.php:587
+#: CherryFramework/includes/locals.php:589
 #, php-format
 msgid "This theme recommends the following plugins: %1$s."
 msgstr "Ce thème recommande les plugins suivants: %1$s."
 
-#: ../includes/locals.php:588
+#: CherryFramework/includes/locals.php:590
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to install the %s plugin. "
@@ -2678,7 +2775,7 @@ msgstr ""
 "installer le plugin %s Contactez l'administrateur de ce site pour obtenir de "
 "l'aide sur le plugin installé."
 
-#: ../includes/locals.php:589
+#: CherryFramework/includes/locals.php:591
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to install the %s "
@@ -2689,27 +2786,27 @@ msgstr ""
 "installer les plugins de %s. Contactez l'administrateur de ce site de l'aide "
 "sur l'obtention des plugins installés .."
 
-#: ../includes/locals.php:590
+#: CherryFramework/includes/locals.php:592
 #, php-format
 msgid "The following required plugin is currently inactive: %1$s."
 msgstr "Le plugin requis à la suite est actuellement inactive: %1$s."
 
-#: ../includes/locals.php:591
+#: CherryFramework/includes/locals.php:593
 #, php-format
 msgid "The following required plugins are currently inactive: %1$s."
 msgstr "Les plugins requis suivants sont actuellement inactive: %1$s."
 
-#: ../includes/locals.php:592
+#: CherryFramework/includes/locals.php:594
 #, php-format
 msgid "The following recommended plugin is currently inactive: %1$s"
 msgstr "Le plugin est recommandé suite est actuellement inactive: %1$s"
 
-#: ../includes/locals.php:593
+#: CherryFramework/includes/locals.php:595
 #, php-format
 msgid "The following recommended plugins are currently inactive: %1$s."
 msgstr "Les plugins suivants sont recommandés actuellement inactive: %1$s."
 
-#: ../includes/locals.php:594
+#: CherryFramework/includes/locals.php:596
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to activate the %s "
@@ -2720,7 +2817,7 @@ msgstr ""
 "plugin  %s. Contactez l'administrateur de ce site pour obtenir de l'aide sur "
 "le plugin activé."
 
-#: ../includes/locals.php:595
+#: CherryFramework/includes/locals.php:597
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to activate the %s "
@@ -2731,7 +2828,7 @@ msgstr ""
 "plugins de  %s. Contactez l'administrateur de ce site de l'aide sur "
 "l'obtention des plugins activés."
 
-#: ../includes/locals.php:596
+#: CherryFramework/includes/locals.php:598
 #, php-format
 msgid ""
 "The following plugin needs to be updated to its latest version to ensure "
@@ -2740,7 +2837,7 @@ msgstr ""
 "Le plugin suivante doit être mis à jour dans sa dernière version pour "
 "assurer une compatibilité maximale avec ce thème: %1$s."
 
-#: ../includes/locals.php:597
+#: CherryFramework/includes/locals.php:599
 #, php-format
 msgid ""
 "The following plugins need to be updated to their latest version to ensure "
@@ -2749,7 +2846,7 @@ msgstr ""
 "Les plugins suivants doivent être mis à jour leur version la plus récente "
 "afin d'assurer une compatibilité maximale avec ce thème: %1$s"
 
-#: ../includes/locals.php:598
+#: CherryFramework/includes/locals.php:600
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to update the %s plugin. "
@@ -2760,7 +2857,7 @@ msgstr ""
 "jour le plugin %s. Contactez l'administrateur de ce site pour obtenir de "
 "l'aide sur le plugin à jour."
 
-#: ../includes/locals.php:599
+#: CherryFramework/includes/locals.php:601
 #, php-format
 msgid ""
 "Sorry, but you do not have the correct permissions to update the %s plugins. "
@@ -2771,538 +2868,538 @@ msgstr ""
 "jour les plugins de %s. Contactez l'administrateur de ce site de l'aide sur "
 "l'obtention des plugins mis à jour."
 
-#: ../includes/locals.php:600
+#: CherryFramework/includes/locals.php:602
 msgid "Begin installing plugin"
 msgstr "Commencez à installer le plugin"
 
-#: ../includes/locals.php:601
+#: CherryFramework/includes/locals.php:603
 msgid "Begin installing plugins"
 msgstr "Commencez à installer des plugins"
 
-#: ../includes/locals.php:602
+#: CherryFramework/includes/locals.php:604
 msgid "Activate installed plugin"
 msgstr "Activez le plugin installé"
 
-#: ../includes/locals.php:603
+#: CherryFramework/includes/locals.php:605
 msgid "Activate installed plugins"
 msgstr "Activer les plugins installés"
 
-#: ../includes/locals.php:605
+#: CherryFramework/includes/locals.php:607
 msgid "Plugin activated successfully"
 msgstr "Plugin activé avec succès"
 
-#: ../includes/locals.php:608
+#: CherryFramework/includes/locals.php:610
 #, php-format
 msgid "The following plugin was activated successfully: %s."
 msgstr "Le plugin suivant a été activé avec succès: %s."
 
-#: ../includes/locals.php:610
+#: CherryFramework/includes/locals.php:612
 msgid "External Link"
 msgstr "Lien Externe"
 
-#: ../includes/locals.php:618
+#: CherryFramework/includes/locals.php:620
 msgid "No plugins to install or activate."
 msgstr "Aucun plugin à installer ou activer."
 
-#: ../includes/locals.php:627
+#: CherryFramework/includes/locals.php:629
 msgid "The following plugins were activated successfully:"
 msgstr "Les plugins suivants ont été activés avec succès:"
 
-#: ../includes/locals.php:629
+#: CherryFramework/includes/locals.php:631
 #, php-format
 msgid "Downloading install package from <span class='code'>%s</span>&#8230;"
 msgstr ""
 "Téléchargement package d'installation de <span class='code'>%s</ span>&#8230;"
 
-#: ../includes/locals.php:648
+#: CherryFramework/includes/locals.php:650
 msgid "Something went wrong with the plugin API._"
 msgstr "Quelque chose n'allait pas avec le plugin API._"
 
-#: ../includes/locals.php:649
+#: CherryFramework/includes/locals.php:651
 msgid "updated"
 msgstr "mise à jour"
 
-#: ../includes/locals.php:652
+#: CherryFramework/includes/locals.php:654
 msgid "Close"
 msgstr "Proche"
 
-#: ../includes/locals.php:655
+#: CherryFramework/includes/locals.php:657
 msgid "Sidebar"
 msgstr "Barre latérale"
 
-#: ../includes/locals.php:656
+#: CherryFramework/includes/locals.php:658
 msgid "Located at the right side of pages."
 msgstr "Situé sur le côté droit de pages."
 
-#: ../includes/locals.php:657
+#: CherryFramework/includes/locals.php:659
 msgid "Footer Area 1"
 msgstr "Pied de page Zone 1"
 
-#: ../includes/locals.php:658
+#: CherryFramework/includes/locals.php:660
 msgid "Footer Area 2"
 msgstr "Pied de page Zone 2"
 
-#: ../includes/locals.php:659
+#: CherryFramework/includes/locals.php:661
 msgid "Footer Area 3"
 msgstr "Pied de page Zone 3"
 
-#: ../includes/locals.php:660
+#: CherryFramework/includes/locals.php:662
 msgid "Footer Area 4"
 msgstr "Pied de page Zone 4"
 
-#: ../includes/locals.php:661
+#: CherryFramework/includes/locals.php:663
 msgid "Located at the bottom of pages."
 msgstr "Situé au bas de pages."
 
-#: ../includes/locals.php:662
+#: CherryFramework/includes/locals.php:664
 msgid "Archives"
 msgstr "Archives"
 
-#: ../includes/locals.php:663
+#: CherryFramework/includes/locals.php:665
 msgid "Meta"
 msgstr "Meta"
 
-#: ../includes/locals.php:666
+#: CherryFramework/includes/locals.php:668
 msgid "No comments"
 msgstr "Pas de commentaires"
 
-#: ../includes/locals.php:667
+#: CherryFramework/includes/locals.php:669
 msgid "1 comment"
 msgstr "1 commentaire"
 
-#: ../includes/locals.php:668
+#: CherryFramework/includes/locals.php:670
 msgid "comments"
 msgstr "commentaires"
 
-#: ../includes/locals.php:669
+#: CherryFramework/includes/locals.php:671
 msgid "comments-link"
 msgstr "commentaires-lien"
 
-#: ../includes/locals.php:670
+#: CherryFramework/includes/locals.php:672
 msgid "Comments are closed"
 msgstr "Les commentaires sont fermés"
 
-#: ../includes/locals.php:671
+#: CherryFramework/includes/locals.php:673
 msgid "No tags"
 msgstr "Pas de tags"
 
-#: ../includes/locals.php:672
+#: CherryFramework/includes/locals.php:674
 msgid "No category"
 msgstr "Sans catégorie"
 
-#: ../includes/locals.php:674
+#: CherryFramework/includes/locals.php:676
 msgid "I like it."
 msgstr "Je l'aime."
 
-#: ../includes/locals.php:675
+#: CherryFramework/includes/locals.php:677
 msgid "I don't like."
 msgstr "Je n'aime pas."
 
-#: ../includes/locals.php:676
+#: CherryFramework/includes/locals.php:678
 msgid "Only registered users can vote!"
 msgstr "Seuls les utilisateurs enregistrés peuvent voter!"
 
-#: ../includes/locals.php:677
+#: CherryFramework/includes/locals.php:679
 msgid "You have already voted."
 msgstr "Vous avez déjà voté."
 
-#: ../includes/locals.php:680
+#: CherryFramework/includes/locals.php:682
 msgid "&laquo; Older Entries"
 msgstr "&laquo;Entrées plus anciennes"
 
-#: ../includes/locals.php:681
+#: CherryFramework/includes/locals.php:683
 msgid "Newer Entries &raquo;"
 msgstr "Les nouvelles entrées &raquo;"
 
-#: ../includes/locals.php:684
+#: CherryFramework/includes/locals.php:686
 msgid "Shortcode Options"
 msgstr "Options code court"
 
-#: ../includes/locals.php:685
+#: CherryFramework/includes/locals.php:687
 msgid "Cancel"
 msgstr "Annuler"
 
-#: ../includes/locals.php:686
+#: CherryFramework/includes/locals.php:688
 msgid "Insert Shortcode"
 msgstr "Insérer le code court"
 
-#: ../includes/locals.php:689
+#: CherryFramework/includes/locals.php:691
 msgid "Posts"
 msgstr "Messages"
 
-#: ../includes/locals.php:690
+#: CherryFramework/includes/locals.php:692
 msgid "Posts Grid"
 msgstr "Messages Grille"
 
-#: ../includes/locals.php:691
+#: CherryFramework/includes/locals.php:693
 msgid "Posts List"
 msgstr "Liste des messages"
 
-#: ../includes/locals.php:692
+#: CherryFramework/includes/locals.php:694
 msgid "Mini Posts Grid"
 msgstr "Mini Messages Grille"
 
-#: ../includes/locals.php:693
+#: CherryFramework/includes/locals.php:695
 msgid "Mini Posts List"
 msgstr "Liste de messages Mini"
 
-#: ../includes/locals.php:694
+#: CherryFramework/includes/locals.php:696
 msgid "Recent Posts"
 msgstr "Les messages récents"
 
-#: ../includes/locals.php:695
+#: CherryFramework/includes/locals.php:697
 msgid "Recent Testimonials"
 msgstr "Témoignages récents"
 
-#: ../includes/locals.php:696
+#: CherryFramework/includes/locals.php:698
 msgid "Basic"
 msgstr "De base"
 
-#: ../includes/locals.php:697
+#: CherryFramework/includes/locals.php:699
 msgid "Banner"
 msgstr "Bannière"
 
-#: ../includes/locals.php:698
+#: CherryFramework/includes/locals.php:700
 msgid "Comments"
 msgstr "Commentaires"
 
-#: ../includes/locals.php:699
+#: CherryFramework/includes/locals.php:701
 msgid "Post Cycle"
 msgstr "Post Cycle"
 
-#: ../includes/locals.php:700
+#: CherryFramework/includes/locals.php:702
 msgid "Carousel (Elasti)"
 msgstr "Carousel (Elasti)"
 
-#: ../includes/locals.php:701
+#: CherryFramework/includes/locals.php:703
 msgid "Carousel (OWL)"
 msgstr "Carousel (OWL)"
 
-#: ../includes/locals.php:702
+#: CherryFramework/includes/locals.php:704
 msgid "Roundabout"
 msgstr "Manège"
 
-#: ../includes/locals.php:703
+#: CherryFramework/includes/locals.php:705
 msgid "Service Box"
 msgstr "Boîte de service"
 
-#: ../includes/locals.php:704
+#: CherryFramework/includes/locals.php:706
 msgid "Hero Unit"
 msgstr "Unité de héros"
 
-#: ../includes/locals.php:706
+#: CherryFramework/includes/locals.php:708
 msgid "Fluid Column"
 msgstr "Colonne de fluide"
 
-#: ../includes/locals.php:707
+#: CherryFramework/includes/locals.php:709
 msgid "2 Columns"
 msgstr "2 colonnes"
 
-#: ../includes/locals.php:708
+#: CherryFramework/includes/locals.php:710
 msgid "3 Columns"
 msgstr "3 colonnes"
 
-#: ../includes/locals.php:709
+#: CherryFramework/includes/locals.php:711
 msgid "4 Columns"
 msgstr "4  colonnes"
 
-#: ../includes/locals.php:710
+#: CherryFramework/includes/locals.php:712
 msgid "Elements"
 msgstr "éléments"
 
-#: ../includes/locals.php:711
+#: CherryFramework/includes/locals.php:713
 msgid "Label"
 msgstr "étiquette"
 
-#: ../includes/locals.php:712
+#: CherryFramework/includes/locals.php:714
 msgid "Text Highlight"
 msgstr "Surbrillance du texte"
 
-#: ../includes/locals.php:713
+#: CherryFramework/includes/locals.php:715
 msgid "Button"
 msgstr "Bouton"
 
-#: ../includes/locals.php:714
+#: CherryFramework/includes/locals.php:716
 msgid "Drop Cap"
 msgstr "Lettrine"
 
-#: ../includes/locals.php:715
+#: CherryFramework/includes/locals.php:717
 msgid "Blockquote"
 msgstr "Bloquer citation"
 
-#: ../includes/locals.php:716
+#: CherryFramework/includes/locals.php:718
 msgid "Icon"
 msgstr "Icône"
 
-#: ../includes/locals.php:717
+#: CherryFramework/includes/locals.php:719
 msgid "Frame"
 msgstr "Frame"
 
-#: ../includes/locals.php:718
+#: CherryFramework/includes/locals.php:720
 msgid "Horizontal Rule"
 msgstr "Horizontal Rule"
 
-#: ../includes/locals.php:719
+#: CherryFramework/includes/locals.php:721
 msgid "Small Horizontal Rule"
 msgstr "Petit règle horizontale"
 
-#: ../includes/locals.php:720
+#: CherryFramework/includes/locals.php:722
 msgid "Vertical Rule"
 msgstr "Règle Verticale"
 
-#: ../includes/locals.php:721
+#: CherryFramework/includes/locals.php:723
 msgid "Spacer"
 msgstr "Entretoise"
 
-#: ../includes/locals.php:722
+#: CherryFramework/includes/locals.php:724
 msgid "Progressbar"
 msgstr "Barre de progression"
 
-#: ../includes/locals.php:723
+#: CherryFramework/includes/locals.php:725
 msgid "Address"
 msgstr "Adresse"
 
-#: ../includes/locals.php:724
+#: CherryFramework/includes/locals.php:726
 msgid "Clear"
 msgstr "Clair"
 
-#: ../includes/locals.php:725
+#: CherryFramework/includes/locals.php:727
 msgid "Extra Wrap"
 msgstr "Enveloppe supplémentaire"
 
-#: ../includes/locals.php:726
+#: CherryFramework/includes/locals.php:728
 msgid "Lists"
 msgstr "Listes"
 
-#: ../includes/locals.php:727
+#: CherryFramework/includes/locals.php:729
 msgid "Unstyled"
 msgstr "Sans style"
 
-#: ../includes/locals.php:728
+#: CherryFramework/includes/locals.php:730
 msgid "Check List"
 msgstr "Liste de Contrôle"
 
-#: ../includes/locals.php:729
+#: CherryFramework/includes/locals.php:731
 msgid "Check 2 List"
 msgstr "Vérifiez 2 Liste"
 
-#: ../includes/locals.php:730
+#: CherryFramework/includes/locals.php:732
 msgid "Arrow List"
 msgstr "Liste flèche"
 
-#: ../includes/locals.php:731
+#: CherryFramework/includes/locals.php:733
 msgid "Arrow 2 List"
 msgstr "Flèche 2 Liste"
 
-#: ../includes/locals.php:732
+#: CherryFramework/includes/locals.php:734
 msgid "Star List"
 msgstr "Liste d'Étoile"
 
-#: ../includes/locals.php:733
+#: CherryFramework/includes/locals.php:735
 msgid "Plus List"
 msgstr "Plus Liste"
 
-#: ../includes/locals.php:734
+#: CherryFramework/includes/locals.php:736
 msgid "Minus List"
 msgstr "Moins Liste"
 
-#: ../includes/locals.php:735
+#: CherryFramework/includes/locals.php:737
 msgid "Custom List"
 msgstr "Liste Personnalisée"
 
-#: ../includes/locals.php:736
+#: CherryFramework/includes/locals.php:738
 msgid "Audio & Video"
 msgstr "Audio et Vidéo"
 
-#: ../includes/locals.php:737
+#: CherryFramework/includes/locals.php:739
 msgid "Video Preview"
 msgstr "Prévisualisation Vidéo"
 
-#: ../includes/locals.php:738
+#: CherryFramework/includes/locals.php:740
 msgid "Misc"
 msgstr "Divers"
 
-#: ../includes/locals.php:739
+#: CherryFramework/includes/locals.php:741
 msgid "Alert Box"
 msgstr "Boîte d'avertissement"
 
-#: ../includes/locals.php:740
+#: CherryFramework/includes/locals.php:742
 msgid "Close icon"
 msgstr "Icône proche"
 
-#: ../includes/locals.php:741
+#: CherryFramework/includes/locals.php:743
 msgid "Well"
 msgstr "Bien"
 
-#: ../includes/locals.php:742
+#: CherryFramework/includes/locals.php:744
 msgid "Small"
 msgstr "Petit"
 
-#: ../includes/locals.php:743
+#: CherryFramework/includes/locals.php:745
 msgid "Title Box"
 msgstr "Boîte de Titre"
 
-#: ../includes/locals.php:744
+#: CherryFramework/includes/locals.php:746
 msgid "Template URL"
 msgstr "URL de modèle"
 
-#: ../includes/locals.php:745
+#: CherryFramework/includes/locals.php:747
 msgid "Tabs"
 msgstr "Onglets"
 
-#: ../includes/locals.php:746
+#: CherryFramework/includes/locals.php:748
 msgid "Accordion"
 msgstr "Accordéon"
 
-#: ../includes/locals.php:747
+#: CherryFramework/includes/locals.php:749
 msgid "Table"
 msgstr "Table"
 
-#: ../includes/locals.php:748
+#: CherryFramework/includes/locals.php:750
 msgid "Google Map"
 msgstr "Carte de Google"
 
-#: ../includes/locals.php:749
+#: CherryFramework/includes/locals.php:751
 msgid "Sitemap"
 msgstr "Plan de site"
 
-#: ../includes/locals.php:752
+#: CherryFramework/includes/locals.php:754
 msgid "Add 125x125 ads."
 msgstr "Ajoutez 125x125 des annonces."
 
-#: ../includes/locals.php:753
+#: CherryFramework/includes/locals.php:755
 msgid "Cherry - 125x125 Ads"
 msgstr "Cerise - 125x125 Annonces"
 
-#: ../includes/locals.php:754
+#: CherryFramework/includes/locals.php:756
 msgid "Ad 1"
 msgstr "L'annonce 1"
 
-#: ../includes/locals.php:755
+#: CherryFramework/includes/locals.php:757
 msgid "Ad 2"
 msgstr "L'annonce 2"
 
-#: ../includes/locals.php:756
+#: CherryFramework/includes/locals.php:758
 msgid "Ad 3"
 msgstr "L'annonce 3"
 
-#: ../includes/locals.php:757
+#: CherryFramework/includes/locals.php:759
 msgid "Ad 4"
 msgstr "L'annonce 4"
 
-#: ../includes/locals.php:758
+#: CherryFramework/includes/locals.php:760
 msgid "Image Ad Link:"
 msgstr "Lien d'Annonce d'Image :"
 
-#: ../includes/locals.php:759
+#: CherryFramework/includes/locals.php:761
 msgid "Ad Link:"
 msgstr "Lien d'Annonce :"
 
-#: ../includes/locals.php:762
+#: CherryFramework/includes/locals.php:764
 msgid "Cherry - Recent Comments"
 msgstr "Cerise - Commentaires Récents"
 
-#: ../includes/locals.php:763
+#: CherryFramework/includes/locals.php:765
 msgid "My Recent Comments"
 msgstr "Mes Commentaires Récents"
 
-#: ../includes/locals.php:764
+#: CherryFramework/includes/locals.php:766
 msgid "Go to this comment"
 msgstr "Allez à ce commentaire"
 
-#: ../includes/locals.php:765
+#: CherryFramework/includes/locals.php:767
 msgid "Number of comments to show"
 msgstr "Le nombre de commentaires pour montrer"
 
-#: ../includes/locals.php:766
+#: CherryFramework/includes/locals.php:768
 msgid "Display avatar"
 msgstr "Avatar d'affichage"
 
-#: ../includes/locals.php:767
+#: CherryFramework/includes/locals.php:769
 msgid "Avatar size (px)"
 msgstr "Taille d'avatar (px)"
 
-#: ../includes/locals.php:768
+#: CherryFramework/includes/locals.php:770
 msgid "Display the comment author"
 msgstr "Affichez l'auteur de commentaire"
 
-#: ../includes/locals.php:769
+#: CherryFramework/includes/locals.php:771
 msgid "Display the comment date"
 msgstr "Affichez la date de commentaire"
 
-#: ../includes/locals.php:770
+#: CherryFramework/includes/locals.php:772
 msgid "Display post title"
 msgstr "Titre de poste d'affichage"
 
-#: ../includes/locals.php:771
+#: CherryFramework/includes/locals.php:773
 msgid "Meta format"
 msgstr "Format Meta"
 
-#: ../includes/locals.php:774
+#: CherryFramework/includes/locals.php:776
 msgid "Comment in"
 msgstr "Commentaire dans"
 
-#: ../includes/locals.php:777
+#: CherryFramework/includes/locals.php:779
 msgid "Cherry - Flickr"
 msgstr "Cherry - Flickr"
 
-#: ../includes/locals.php:778
+#: CherryFramework/includes/locals.php:780
 msgid "Flickr ID:"
 msgstr "Flickr ID:"
 
-#: ../includes/locals.php:779
+#: CherryFramework/includes/locals.php:781
 msgid "Images count:"
 msgstr "Compte d'images :"
 
-#: ../includes/locals.php:782
+#: CherryFramework/includes/locals.php:784
 msgid "Cherry - Advanced Cycle"
 msgstr "Cerise - Cycle Avancé"
 
-#: ../includes/locals.php:783
+#: CherryFramework/includes/locals.php:785
 msgid "Show custom posts"
 msgstr "Montrez des postes personnalisés"
 
-#: ../includes/locals.php:784
+#: CherryFramework/includes/locals.php:786
 msgid "Posts type"
 msgstr "Type de postes"
 
-#: ../includes/locals.php:785
+#: CherryFramework/includes/locals.php:787
 msgid "Number of posts to show"
 msgstr "Nombre de messages à afficher"
 
-#: ../includes/locals.php:786
+#: CherryFramework/includes/locals.php:788
 msgid "Sort by"
 msgstr "Trier par"
 
-#: ../includes/locals.php:787
+#: CherryFramework/includes/locals.php:789
 msgid "Reverse sort order (ascending)"
 msgstr "Ordre de tri inverse (croissant)"
 
-#: ../includes/locals.php:788
+#: CherryFramework/includes/locals.php:790
 msgid "Show number of comments"
 msgstr "Afficher le numéro de commentaires"
 
-#: ../includes/locals.php:789
+#: CherryFramework/includes/locals.php:791
 msgid "Show meta"
 msgstr "Afficher méta"
 
-#: ../includes/locals.php:790
+#: CherryFramework/includes/locals.php:792
 msgid "Container class"
 msgstr "Classe Container"
 
-#: ../includes/locals.php:791
+#: CherryFramework/includes/locals.php:793
 msgid "(default: \"featured_custom_posts\")"
 msgstr "( Défaut : \"featured_custom_posts \")"
 
-#: ../includes/locals.php:792
+#: CherryFramework/includes/locals.php:794
 msgid "Post title"
 msgstr "Titre du poste"
 
-#: ../includes/locals.php:793
+#: CherryFramework/includes/locals.php:795
 msgid "Show post title"
 msgstr "Montrer les messages titre"
 
-#: ../includes/locals.php:794
+#: CherryFramework/includes/locals.php:796
 msgid ""
 "Date as title <span style='font-size:11px; color:#999;'>('[mm-dd-yyyy]')</"
 "span>"
@@ -3310,183 +3407,184 @@ msgstr ""
 "Date titre <span color:#999;'> style='font-size:11px; («[mm-dd-yyyy] ') </"
 "span>"
 
-#: ../includes/locals.php:795
+#: CherryFramework/includes/locals.php:797
 msgid "Excerpt"
 msgstr "Extrait"
 
-#: ../includes/locals.php:796
+#: CherryFramework/includes/locals.php:798
 msgid "Show post excerpt"
 msgstr "Afficher poste extrait"
 
-#: ../includes/locals.php:797
+#: CherryFramework/includes/locals.php:799
 msgid "Excerpt as link"
 msgstr "Extrait de lien"
 
-#: ../includes/locals.php:798
+#: CherryFramework/includes/locals.php:800
 msgid "More link"
 msgstr "Plus lien"
 
-#: ../includes/locals.php:799
+#: CherryFramework/includes/locals.php:801
 msgid "Show \"More link"
 msgstr "Show \"Plus lien"
 
-#: ../includes/locals.php:800
+#: CherryFramework/includes/locals.php:802
 msgid "(default: \"Read more\")"
 msgstr "(par défaut: \"En savoir plus \")"
 
-#: ../includes/locals.php:801
+#: CherryFramework/includes/locals.php:803
 msgid "Link class"
 msgstr "Classe de Lien"
 
-#: ../includes/locals.php:802
+#: CherryFramework/includes/locals.php:804
 msgid "(default: \"link\")"
 msgstr "(par défaut: \"lien\")"
 
-#: ../includes/locals.php:803
+#: CherryFramework/includes/locals.php:805
 msgid "Thumbnail dimensions"
 msgstr "Dimensions miniatures"
 
-#: ../includes/locals.php:804
+#: CherryFramework/includes/locals.php:806
 msgid "Show post thumbnail"
 msgstr "Afficher Post Thumbnail"
 
-#: ../includes/locals.php:805
+#: CherryFramework/includes/locals.php:807
 msgid "Thumbnail as link"
 msgstr "Vignette comme lien"
 
-#: ../includes/locals.php:806
+#: CherryFramework/includes/locals.php:808
 msgid "Link to all posts"
 msgstr "Lien vers tous les messages"
 
-#: ../includes/locals.php:807
+#: CherryFramework/includes/locals.php:809
 msgid "Show global link to all posts"
 msgstr "Montrez le lien global à tous les postes"
 
-#: ../includes/locals.php:808
+#: CherryFramework/includes/locals.php:810
 msgid "(default: \"View all\")"
 msgstr "(par défaut: \"Voir tous les\")"
 
-#: ../includes/locals.php:811
+#: CherryFramework/includes/locals.php:813
 msgid "Cherry - Recent Posts"
 msgstr "Cerise - Postes Récents"
 
-#: ../includes/locals.php:812
+#: CherryFramework/includes/locals.php:814
 msgid "Permanent Link to"
 msgstr "Lien permanent vers"
 
-#: ../includes/locals.php:813
+#: CherryFramework/includes/locals.php:815
 msgid "Category Slug:"
 msgstr "Limace de Catégorie:"
 
-#: ../includes/locals.php:814
+#: CherryFramework/includes/locals.php:816
 msgid "Post format:"
 msgstr "Le format du message:"
 
-#: ../includes/locals.php:815
+#: CherryFramework/includes/locals.php:817
 msgid "Post order:"
 msgstr "Poster ordre:"
 
-#: ../includes/locals.php:816
+#: CherryFramework/includes/locals.php:818
 msgid "Posts per page:"
 msgstr "Messages par page:"
 
-#: ../includes/locals.php:819
+#: CherryFramework/includes/locals.php:821
 msgid "Cherry - Social Networks"
 msgstr "Cherry - Réseaux sociaux"
 
-#: ../includes/locals.php:820
+#: CherryFramework/includes/locals.php:822
 msgid "Link to your social networks."
 msgstr "Lien vers vos réseaux sociaux."
 
-#: ../includes/locals.php:822
+#: CherryFramework/includes/locals.php:824
 msgid "Display:"
 msgstr "Affichage:"
 
-#: ../includes/locals.php:823
+#: CherryFramework/includes/locals.php:825
 msgid "Icons"
 msgstr "Icônes"
 
-#: ../includes/locals.php:824
+#: CherryFramework/includes/locals.php:826
 msgid "Labels"
 msgstr "étiquettes"
 
-#: ../includes/locals.php:825
+#: CherryFramework/includes/locals.php:827
 msgid "Both"
 msgstr "Tous les deux"
 
-#: ../includes/locals.php:828
+#: CherryFramework/includes/locals.php:830
 msgid "Cherry - Twitter"
 msgstr "Cerise - Twitter"
 
-#: ../includes/locals.php:829
+#: CherryFramework/includes/locals.php:831
 msgid "Twitter Name:"
 msgstr "Nom : Twitter"
 
-#: ../includes/locals.php:830
+#: CherryFramework/includes/locals.php:832
 msgid "Twitts Number:"
 msgstr "Nombre twitts:"
 
-#: ../includes/locals.php:833
+#: CherryFramework/includes/locals.php:835
 msgid "Cherry - vCard"
 msgstr "Cerise - vCard"
 
-#: ../includes/locals.php:834
+#: CherryFramework/includes/locals.php:836
 msgid "Use this widget to add a vCard"
 msgstr "Utilisez ce gadget pour ajouter un vCard"
 
-#: ../includes/locals.php:835
+#: CherryFramework/includes/locals.php:837
 msgid "vCard"
 msgstr "vCard"
 
-#: ../includes/locals.php:836
+#: CherryFramework/includes/locals.php:838
 msgid "Street Address:"
 msgstr "Adresse postale :"
 
-#: ../includes/locals.php:837
+#: CherryFramework/includes/locals.php:839
 msgid "HTML map code:"
 msgstr "Code de carte de HTML :"
 
-#: ../includes/locals.php:838
+#: CherryFramework/includes/locals.php:840
 msgid "Map width:"
 msgstr "Largeur de carte :"
 
-#: ../includes/locals.php:839
+#: CherryFramework/includes/locals.php:841
 msgid "Map height:"
 msgstr "Hauteur de carte :"
 
-#: ../includes/locals.php:840
+#: CherryFramework/includes/locals.php:842
 msgid "Display map"
 msgstr "Carte d'affichage"
 
-#: ../includes/locals.php:841
+#: CherryFramework/includes/locals.php:843
 msgid "City/Locality:"
 msgstr "Ville/localité :"
 
-#: ../includes/locals.php:842
+#: CherryFramework/includes/locals.php:844
 msgid "State/Region:"
 msgstr "État/région :"
 
-#: ../includes/locals.php:843
+#: CherryFramework/includes/locals.php:845
 msgid "Zipcode/Postal Code:"
 msgstr "Code postal / Code postal:"
 
-#: ../includes/locals.php:844
+#: CherryFramework/includes/locals.php:846
 msgid "Telephone:"
 msgstr "Téléphone:"
 
-#: ../includes/locals.php:845
+#: CherryFramework/includes/locals.php:847
 msgid "Email:"
 msgstr "Email:"
 
-#: ../includes/locals.php:848 ../includes/locals.php:849
+#: CherryFramework/includes/locals.php:850
+#: CherryFramework/includes/locals.php:851
 msgid "Cherry - Facebook Like Box Widget"
 msgstr "Cherry - Facebook Like Box Widget"
 
-#: ../includes/locals.php:850
+#: CherryFramework/includes/locals.php:852
 msgid "Facebook page url"
 msgstr "Page Facebook url"
 
-#: ../includes/locals.php:851
+#: CherryFramework/includes/locals.php:853
 msgid ""
 "The Like Box only works with <a target=\"_blank\" href=\"//www.facebook.com/"
 "help/174987089221178/\" title=\"Facebook Pages\">Facebook Pages.</a>"
@@ -3495,153 +3593,153 @@ msgstr ""
 "facebook.com/help/174987089221178/\" title=\"Facebook Pages\">les pages "
 "Facebook.</a>"
 
-#: ../includes/locals.php:852
+#: CherryFramework/includes/locals.php:854
 msgid "Color Scheme"
 msgstr "Combinaison des couleurs"
 
-#: ../includes/locals.php:853
+#: CherryFramework/includes/locals.php:855
 msgid "Light"
 msgstr "Lumière"
 
-#: ../includes/locals.php:854
+#: CherryFramework/includes/locals.php:856
 msgid "Dark"
 msgstr "Sombre"
 
-#: ../includes/locals.php:855
+#: CherryFramework/includes/locals.php:857
 msgid "Display header"
 msgstr "Tête d'affichage"
 
-#: ../includes/locals.php:856
+#: CherryFramework/includes/locals.php:858
 msgid "Display stream"
 msgstr "Flux d'affichage"
 
-#: ../includes/locals.php:857
+#: CherryFramework/includes/locals.php:859
 msgid "Display border"
 msgstr "Frontière d'affichage"
 
-#: ../includes/locals.php:858
+#: CherryFramework/includes/locals.php:860
 msgid "Display faces"
 msgstr "Visages d'affichage"
 
-#: ../includes/locals.php:859
+#: CherryFramework/includes/locals.php:861
 msgid "My Facebook Page"
 msgstr "Ma Page Facebook"
 
-#: ../includes/locals.php:862
+#: CherryFramework/includes/locals.php:864
 msgid "Default options restored."
 msgstr "Options par défaut reconstituées"
 
-#: ../includes/locals.php:863
+#: CherryFramework/includes/locals.php:865
 msgid "Options saved."
 msgstr "Options sauvées"
 
-#: ../includes/locals.php:864
+#: CherryFramework/includes/locals.php:866
 msgid "Cherry Store"
 msgstr "Magasin Cerise"
 
-#: ../includes/locals.php:865
+#: CherryFramework/includes/locals.php:867
 msgid "Latest Templates"
 msgstr "Derniers Modèles"
 
-#: ../includes/locals.php:866
+#: CherryFramework/includes/locals.php:868
 msgid "News & Updates"
 msgstr "Nouvelles et Mises à jour"
 
-#: ../includes/locals.php:867
+#: CherryFramework/includes/locals.php:869
 msgid "Help & Support"
 msgstr "Aide et Assistance"
 
-#: ../includes/locals.php:868
+#: CherryFramework/includes/locals.php:870
 msgid "No items"
 msgstr "Aucun article"
 
-#: ../includes/locals.php:869
+#: CherryFramework/includes/locals.php:871
 msgid "Posted"
 msgstr "Posté"
 
-#: ../includes/locals.php:870
+#: CherryFramework/includes/locals.php:872
 msgid "All templates"
 msgstr "Tous les modèles"
 
-#: ../includes/locals.php:873
+#: CherryFramework/includes/locals.php:875
 msgid "Start"
 msgstr "Début"
 
-#: ../includes/locals.php:876
+#: CherryFramework/includes/locals.php:878
 msgid "Data Management"
 msgstr "Gestion de Données"
 
-#: ../includes/locals.php:877
+#: CherryFramework/includes/locals.php:879
 msgid "Cherry Framework"
 msgstr "Cherry Framework"
 
-#: ../includes/locals.php:878
+#: CherryFramework/includes/locals.php:880
 msgid "Update Info"
 msgstr "Actualiser l'info"
 
-#: ../includes/locals.php:879
+#: CherryFramework/includes/locals.php:881
 msgid "Child Theme"
 msgstr "Thème d'Enfant"
 
-#: ../includes/locals.php:880
+#: CherryFramework/includes/locals.php:882
 msgid "Update"
 msgstr "Mise à jour"
 
-#: ../includes/locals.php:881
+#: CherryFramework/includes/locals.php:883
 msgid "Backup"
 msgstr "Sauvegarde"
 
-#: ../includes/locals.php:882
+#: CherryFramework/includes/locals.php:884
 msgid "Restore"
 msgstr "Restaurer"
 
-#: ../includes/locals.php:883
+#: CherryFramework/includes/locals.php:885
 msgid "Download Backup"
 msgstr "Sauvegarde de Téléchargement"
 
-#: ../includes/locals.php:886
+#: CherryFramework/includes/locals.php:888
 msgid "Your Version"
 msgstr "Votre Version"
 
-#: ../includes/locals.php:887
+#: CherryFramework/includes/locals.php:889
 msgid "Update Version"
 msgstr "Version de Mise à jour"
 
-#: ../includes/locals.php:888
+#: CherryFramework/includes/locals.php:890
 msgid "Backup Version"
 msgstr "Version de Secours"
 
-#: ../includes/locals.php:889
+#: CherryFramework/includes/locals.php:891
 msgid "Last Backup Date"
 msgstr "La dernière Date de sauvegarde"
 
-#: ../includes/locals.php:890
+#: CherryFramework/includes/locals.php:892
 msgid "Preview"
 msgstr "Prévisualisation"
 
-#: ../includes/locals.php:891
+#: CherryFramework/includes/locals.php:893
 msgid "Description"
 msgstr "Description"
 
-#: ../includes/locals.php:892
+#: CherryFramework/includes/locals.php:894
 msgid "No backup."
 msgstr "Aucune sauvegarde."
 
-#: ../includes/locals.php:893
+#: CherryFramework/includes/locals.php:895
 msgid "Not defined"
 msgstr "Non défini"
 
-#: ../includes/locals.php:894
+#: CherryFramework/includes/locals.php:896
 msgid "Unfortunately theme "
 msgstr "Malheureusement thème"
 
-#: ../includes/locals.php:895
+#: CherryFramework/includes/locals.php:897
 msgid " backup file not found. Please try to create backup once again."
 msgstr ""
 "fichier de sauvegarde introuvable. S'il vous plaît essayer de créer une "
 "sauvegarde une fois de plus."
 
-#: ../includes/locals.php:896
+#: CherryFramework/includes/locals.php:898
 msgid ""
 "Data Management allows to update or backup framework and themes. Framework "
 "is regularly updated thus delivering new opportunities for your site.<br> To "
@@ -3656,7 +3754,7 @@ msgstr ""
 "télécharger plus tard. Si nécessaire, vous pouvez restaurer le cadre ou "
 "votre thème en utilisant la sauvegarde."
 
-#: ../includes/locals.php:897
+#: CherryFramework/includes/locals.php:899
 msgid ""
 "<b>Warning!</b> Before updating framework you are strongly advised to backup "
 "your data."
@@ -3664,7 +3762,7 @@ msgstr ""
 "<b> Attention! </b> Avant de mettre à jour le cadre il est fortement "
 "recommandé de sauvegarder vos données."
 
-#: ../includes/locals.php:898
+#: CherryFramework/includes/locals.php:900
 msgid ""
 "You can back up your theme. If the theme has a backup copy, it is possible "
 "to restore it or download. The date of the latest backup copy is displayed "
@@ -3675,7 +3773,7 @@ msgstr ""
 "sauvegarde est affiché dans la dernière date de sauvegarde de la colonne </ "
 "b>."
 
-#: ../includes/locals.php:899
+#: CherryFramework/includes/locals.php:901
 msgid ""
 "<b style=\"color:red;\">Warning!</b> Before updating framework you are "
 "strongly advised to <a href=\"admin.php?page=options-framework-data-"
@@ -3685,19 +3783,20 @@ msgstr ""
 "il est fortement conseillé de <a sauvegarde href=\"admin.php?page=options-"
 "framework-data-management\"> </ a> vos données."
 
-#: ../includes/locals.php:903
+#: CherryFramework/includes/locals.php:905
 msgid "View File"
 msgstr "Voir le fichier"
 
-#: ../includes/locals.php:904
+#: CherryFramework/includes/locals.php:906
 msgid "Previously Uploaded"
 msgstr "Auparavant Téléchargé"
 
-#: ../includes/locals.php:920 ../includes/locals.php:922
+#: CherryFramework/includes/locals.php:922
+#: CherryFramework/includes/locals.php:924
 msgid "There was an error when reading this WXR file"
 msgstr "Il y avait une erreur lors de la lecture de ce fichier WXR"
 
-#: ../includes/locals.php:921
+#: CherryFramework/includes/locals.php:923
 msgid ""
 "Details are shown above. The importer will now try again with a different "
 "parser..."
@@ -3705,14 +3804,14 @@ msgstr ""
 "Les détails sont présentés ci-dessus. L'importateur va maintenant essayer de "
 "nouveau avec un analyseur différent ..."
 
-#: ../includes/locals.php:923
+#: CherryFramework/includes/locals.php:925
 msgid ""
 "This does not appear to be a WXR file, missing/invalid WXR version number"
 msgstr ""
 "Cela ne semble pas être un fichier WXR, manquant / non valable WXR numéro de "
 "version"
 
-#: ../includes/locals.php:926
+#: CherryFramework/includes/locals.php:928
 msgid ""
 "<p>An Unexpected HTTP Error occurred during the API request.</p><p><a "
 "href='#' onclick='document.location.reload(); return false;'>Try again</a></"
@@ -3722,191 +3821,191 @@ msgstr ""
 "p> <a href='#' onclick='document.location.reload(); revenir false;'> Essayez "
 "à nouveau </a> </p>"
 
-#: ../includes/locals.php:927
+#: CherryFramework/includes/locals.php:929
 msgid "An unknown error occurred"
 msgstr "Une erreur inconnue s'est produite"
 
-#: ../includes/locals.php:928
+#: CherryFramework/includes/locals.php:930
 msgid "There is a new version of Cherry framework available"
 msgstr "Il est une nouvelle version du cadre de cerise disponible"
 
-#: ../includes/locals.php:929
+#: CherryFramework/includes/locals.php:931
 msgid "View version "
 msgstr "Voir la version"
 
-#: ../includes/locals.php:930
+#: CherryFramework/includes/locals.php:932
 msgid " details"
 msgstr "détails"
 
-#: ../includes/locals.php:931
+#: CherryFramework/includes/locals.php:933
 msgid "or"
 msgstr "ou"
 
-#: ../includes/locals.php:932
+#: CherryFramework/includes/locals.php:934
 msgid "update now."
 msgstr "mettre à jour maintenant."
 
-#: ../includes/locals.php:936
+#: CherryFramework/includes/locals.php:938
 msgid "Please do not load this page directly. Thanks!"
 msgstr "S'il vous plaît ne pas charger cette page directement. Merci!"
 
-#: ../includes/locals.php:937
+#: CherryFramework/includes/locals.php:939
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
 "Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux "
 "commentaires."
 
-#: ../includes/locals.php:938
+#: CherryFramework/includes/locals.php:940
 msgid "1 Response"
 msgstr "1 réponse"
 
-#: ../includes/locals.php:939
+#: CherryFramework/includes/locals.php:941
 #, php-format
 msgid "%1$s Responses"
 msgstr "%1$s réponses"
 
-#: ../includes/locals.php:940
+#: CherryFramework/includes/locals.php:942
 msgid "No Comments Yet."
 msgstr "Pas de commentaire."
 
-#: ../includes/locals.php:941
+#: CherryFramework/includes/locals.php:943
 msgid "Comments are closed."
 msgstr "Les commentaires sont fermés."
 
-#: ../includes/locals.php:942
+#: CherryFramework/includes/locals.php:944
 msgid "Leave a comment"
 msgstr "Ajouter un commentaire"
 
-#: ../includes/locals.php:943
+#: CherryFramework/includes/locals.php:945
 msgid "You must be"
 msgstr "Vous devez être"
 
-#: ../includes/locals.php:944
+#: CherryFramework/includes/locals.php:946
 msgid "to post a comment."
 msgstr "pour poster un commentaire."
 
-#: ../includes/locals.php:945
+#: CherryFramework/includes/locals.php:947
 msgid "Logged in"
 msgstr "Connecté"
 
-#: ../includes/locals.php:946
+#: CherryFramework/includes/locals.php:948
 msgid "Logged in as"
 msgstr "Connecté en tant que"
 
-#: ../includes/locals.php:947
+#: CherryFramework/includes/locals.php:949
 msgid "Log out of this account;"
 msgstr "Déconnectez-vous de ce compte;"
 
-#: ../includes/locals.php:948
+#: CherryFramework/includes/locals.php:950
 msgid "Log out &raquo;"
 msgstr "Déconnectez-vous »"
 
-#: ../includes/locals.php:950
+#: CherryFramework/includes/locals.php:952
 msgid "Email (will not be published)"
 msgstr "Email (ne sera pas publié)"
 
-#: ../includes/locals.php:951
+#: CherryFramework/includes/locals.php:953
 msgid "Website"
 msgstr "site Web"
 
-#: ../includes/locals.php:952
+#: CherryFramework/includes/locals.php:954
 msgid "Your comment*"
 msgstr "Votre commentaire*"
 
-#: ../includes/locals.php:953
+#: CherryFramework/includes/locals.php:955
 msgid "Submit Comment"
 msgstr "Envoyer un commentaire"
 
-#: ../includes/locals.php:956
+#: CherryFramework/includes/locals.php:958
 msgid "Tweet this article"
 msgstr "Tweet cet article"
 
-#: ../includes/locals.php:959
+#: CherryFramework/includes/locals.php:961
 msgid "Continue Reading"
 msgstr "Lire la suite"
 
-#: ../includes/locals.php:960
+#: CherryFramework/includes/locals.php:962
 msgid "Pages:"
 msgstr "Pages:"
 
-#: ../includes/locals.php:961
+#: CherryFramework/includes/locals.php:963
 msgid "Last 30 Posts"
 msgstr "30 Derniers Messages"
 
-#: ../includes/locals.php:962
+#: CherryFramework/includes/locals.php:964
 msgid "Archives by Month:"
 msgstr "Archives par mois:"
 
-#: ../includes/locals.php:963
+#: CherryFramework/includes/locals.php:965
 msgid "Archives by Subject:"
 msgstr "Archives par sujet:"
 
-#: ../includes/locals.php:966
+#: CherryFramework/includes/locals.php:968
 msgid "About:"
 msgstr "À propos de:"
 
-#: ../includes/locals.php:967
+#: CherryFramework/includes/locals.php:969
 msgid "Recent Posts by"
 msgstr "Messages récents par"
 
-#: ../includes/locals.php:968
+#: CherryFramework/includes/locals.php:970
 msgid "No post yet"
 msgstr "Pas encore de post"
 
-#: ../includes/locals.php:969
+#: CherryFramework/includes/locals.php:971
 msgid "Recent Comments by"
 msgstr "Commentaires récents par"
 
-#: ../includes/locals.php:970
+#: CherryFramework/includes/locals.php:972
 #, php-format
 msgid "%1$s on %2$s"
 msgstr "%1$s sur %2$s"
 
-#: ../includes/locals.php:971
+#: CherryFramework/includes/locals.php:973
 msgid "No comments by"
 msgstr "Pas de commentaires par"
 
-#: ../includes/locals.php:972
+#: CherryFramework/includes/locals.php:974
 msgid "yet."
 msgstr "encore."
 
-#: ../includes/locals.php:975
+#: CherryFramework/includes/locals.php:977
 msgid "There has been an error."
 msgstr "Il ya eu une erreur."
 
-#: ../includes/locals.php:976
+#: CherryFramework/includes/locals.php:978
 msgid "We apologize for any inconvenience, please"
 msgstr "Nous nous excusons pour tout inconvénient, s'il vous plaît"
 
-#: ../includes/locals.php:977
+#: CherryFramework/includes/locals.php:979
 msgid "return to the home page"
 msgstr "revenir à la page d'accueil"
 
-#: ../includes/locals.php:978
+#: CherryFramework/includes/locals.php:980
 msgid "or use the search form below."
 msgstr "ou utilisez le formulaire de recherche ci-dessous."
 
-#: ../includes/locals.php:981
+#: CherryFramework/includes/locals.php:983
 msgid "Q?"
 msgstr "Q?"
 
-#: ../includes/locals.php:982
+#: CherryFramework/includes/locals.php:984
 msgid "A."
 msgstr "A."
 
-#: ../includes/locals.php:985
+#: CherryFramework/includes/locals.php:987
 msgid "Written by"
 msgstr "écrit par"
 
-#: ../includes/locals.php:986
+#: CherryFramework/includes/locals.php:988
 msgid "View all posts by"
 msgstr "Voir tous les messages de"
 
-#: ../includes/locals.php:989
+#: CherryFramework/includes/locals.php:991
 msgid "Not Found"
 msgstr "Introuvable"
 
-#: ../includes/locals.php:990
+#: CherryFramework/includes/locals.php:992
 msgid ""
 "Apologies, but no results were found for the requested archive. Perhaps "
 "searching will help find a related post."
@@ -3914,87 +4013,88 @@ msgstr ""
 "Excuses, mais aucun résultat n'a été trouvé pour l'archive demandée. Peut-"
 "être la recherche aidera à trouver un poste lié."
 
-#: ../includes/locals.php:993
+#: CherryFramework/includes/locals.php:995
 msgid "is proudly powered by"
 msgstr "is proudly powered by"
 
-#: ../includes/locals.php:994
+#: CherryFramework/includes/locals.php:996
 msgid "Entries (RSS)"
 msgstr "Entrées (RSS)"
 
-#: ../includes/locals.php:995
+#: CherryFramework/includes/locals.php:997
 msgid "Comments (RSS)"
 msgstr "Commentaires (RSS)"
 
-#: ../includes/locals.php:996
+#: CherryFramework/includes/locals.php:998
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
-#: ../includes/locals.php:999
+#: CherryFramework/includes/locals.php:1001
 msgid "Category Archives"
 msgstr "Archives de la catégorie"
 
-#: ../includes/locals.php:1000
+#: CherryFramework/includes/locals.php:1002
 msgid "Portfolio Category"
 msgstr "Portefeuille Catégorie"
 
-#: ../includes/locals.php:1001
+#: CherryFramework/includes/locals.php:1003
 msgid "Search for"
 msgstr "Recherche pour"
 
-#: ../includes/locals.php:1002
+#: CherryFramework/includes/locals.php:1004
 msgid "Daily Archives"
 msgstr "Archives quotidiennes"
 
-#: ../includes/locals.php:1003
+#: CherryFramework/includes/locals.php:1005
 msgid "Monthly Archives"
 msgstr "Archives mensuelles"
 
-#: ../includes/locals.php:1004
+#: CherryFramework/includes/locals.php:1006
 msgid "Yearly Archives"
 msgstr "Archives annuelles"
 
-#: ../includes/locals.php:1005
+#: CherryFramework/includes/locals.php:1007
 msgid "by "
 msgstr "par"
 
-#: ../includes/locals.php:1006
+#: CherryFramework/includes/locals.php:1008
 msgid "Tag Archives"
 msgstr "Tag Archives"
 
-#: ../includes/locals.php:1007
+#: CherryFramework/includes/locals.php:1009
 msgid "Portfolio Tag"
 msgstr "Tag de portefeuille"
 
-#: ../includes/locals.php:1010
+#: CherryFramework/includes/locals.php:1012
 msgid "Category Archive for"
 msgstr "Archive pour la catégorie"
 
-#: ../includes/locals.php:1011
+#: CherryFramework/includes/locals.php:1013
 msgid "Tag Archive for"
 msgstr "Archives d'Étiquette pour"
 
-#: ../includes/locals.php:1012 ../includes/locals.php:1055
+#: CherryFramework/includes/locals.php:1014
+#: CherryFramework/includes/locals.php:1057
 msgid "Archive"
 msgstr "Archives"
 
-#: ../includes/locals.php:1013
+#: CherryFramework/includes/locals.php:1015
 msgid "Error 404 Not Found"
 msgstr "Erreur 404 Non Trouvé"
 
-#: ../includes/locals.php:1016
+#: CherryFramework/includes/locals.php:1018
 msgid "Launch Project"
 msgstr "Projet de Lancement"
 
-#: ../includes/locals.php:1019
+#: CherryFramework/includes/locals.php:1021
 msgid "Sorry!"
 msgstr "Désolé!"
 
-#: ../includes/locals.php:1020
+#: CherryFramework/includes/locals.php:1022
 msgid "Page Not Found"
 msgstr "Page Non Trouvée"
 
-#: ../includes/locals.php:1021
+#: CherryFramework/includes/locals.php:1023
 msgid ""
 "The page you are looking for might have been removed, had its name changed, "
 "or is temporarily unavailable."
@@ -4002,7 +4102,7 @@ msgstr ""
 "La page que vous cherchez pourrait avoir été enlevée, a fait changer son "
 "nom, ou est temporairement indisponible."
 
-#: ../includes/locals.php:1022
+#: CherryFramework/includes/locals.php:1024
 msgid ""
 "Please try using our search box below to look for information on the "
 "internet."
@@ -4010,19 +4110,19 @@ msgstr ""
 "Essayez S'il vous plaît d'utiliser notre boîte de recherche ci-dessous pour "
 "chercher des informations sur Internet."
 
-#: ../includes/locals.php:1025
+#: CherryFramework/includes/locals.php:1027
 msgid "Posted in"
 msgstr "Posté dans"
 
-#: ../includes/locals.php:1028
+#: CherryFramework/includes/locals.php:1030
 msgid "Featured"
 msgstr "En vedette"
 
-#: ../includes/locals.php:1032
+#: CherryFramework/includes/locals.php:1034
 msgid "Submit Permalink Structure"
 msgstr "Soumettez Structure de Permalink"
 
-#: ../includes/locals.php:1033
+#: CherryFramework/includes/locals.php:1035
 msgid ""
 "This way of links configuration can be used by not only our blog followers "
 "but will help in SEO-optimisation as well. The effectiveness and main "
@@ -4034,11 +4134,12 @@ msgstr ""
 "et les fonctionnalités principales de cette configuration des liens sont "
 "révélées  <a href='//codex.wordpress.org/Using_Permalinks'>ici</a>"
 
-#: ../includes/locals.php:1034
+#: CherryFramework/includes/locals.php:1036
 msgid "Import Sample Data"
 msgstr "Données de l'échantillon d'Importation"
 
-#: ../includes/locals.php:1035 ../includes/locals.php:1036
+#: CherryFramework/includes/locals.php:1037
+#: CherryFramework/includes/locals.php:1038
 msgid ""
 "If you want to install sample data from livedemo you need to go to "
 "<strong><a href=\"admin.php?page=import-page\">Import Content</a></strong> "
@@ -4048,165 +4149,165 @@ msgstr ""
 "devez cliquer sur <strong><a href=\"admin.php?page=import-page\">Importer le "
 "contenu</a></strong> et suivre les indications."
 
-#: ../includes/locals.php:1039
+#: CherryFramework/includes/locals.php:1041
 msgid "No lable."
 msgstr "Aucun lable."
 
-#: ../includes/locals.php:1042
+#: CherryFramework/includes/locals.php:1044
 msgid "Theme Options Media"
 msgstr "Médias d'Options de Thème"
 
-#: ../includes/locals.php:1045
+#: CherryFramework/includes/locals.php:1047
 msgid "Visibility"
 msgstr "Visibilité"
 
-#: ../includes/locals.php:1046
+#: CherryFramework/includes/locals.php:1048
 msgid "Visible at"
 msgstr "Visible à"
 
-#: ../includes/locals.php:1047
+#: CherryFramework/includes/locals.php:1049
 msgid "Visible on"
 msgstr "Visible sur"
 
-#: ../includes/locals.php:1048
+#: CherryFramework/includes/locals.php:1050
 msgid "Visible for"
 msgstr "Visible"
 
-#: ../includes/locals.php:1049
+#: CherryFramework/includes/locals.php:1051
 msgid "All pages"
 msgstr "Toutes les pages"
 
-#: ../includes/locals.php:1050
+#: CherryFramework/includes/locals.php:1052
 msgid "All pages expecting"
 msgstr "Toutes les pages attente"
 
-#: ../includes/locals.php:1051
+#: CherryFramework/includes/locals.php:1053
 msgid "No pages expecting"
 msgstr "Pas de pages attente"
 
-#: ../includes/locals.php:1052
+#: CherryFramework/includes/locals.php:1054
 msgid "Homepage"
 msgstr "Page d'accueil"
 
-#: ../includes/locals.php:1053
+#: CherryFramework/includes/locals.php:1055
 msgid "Page"
 msgstr "Page"
 
-#: ../includes/locals.php:1054
+#: CherryFramework/includes/locals.php:1056
 msgid "Post"
 msgstr "Poster"
 
-#: ../includes/locals.php:1056
+#: CherryFramework/includes/locals.php:1058
 msgid "Page Template"
 msgstr "page Template"
 
-#: ../includes/locals.php:1057
+#: CherryFramework/includes/locals.php:1059
 msgid "Search page"
 msgstr "Page de recherche"
 
-#: ../includes/locals.php:1058
+#: CherryFramework/includes/locals.php:1060
 msgid "404 page"
 msgstr "404 page"
 
-#: ../includes/locals.php:1059
+#: CherryFramework/includes/locals.php:1061
 msgid "Page ID/Title/slug"
 msgstr "ID de page /Titre/slug"
 
-#: ../includes/locals.php:1060
+#: CherryFramework/includes/locals.php:1062
 msgid "Post ID/Title/slug"
 msgstr "Poster ID/Titre/slug"
 
-#: ../includes/locals.php:1061
+#: CherryFramework/includes/locals.php:1063
 msgid "Category ID/Name/slug"
 msgstr "Catégorie ID/Nom/slug"
 
-#: ../includes/locals.php:1062
+#: CherryFramework/includes/locals.php:1064
 msgid "Tag ID/Name"
 msgstr "Tag ID/Nom"
 
-#: ../includes/locals.php:1063
+#: CherryFramework/includes/locals.php:1065
 msgid "Template"
 msgstr "Template"
 
-#: ../includes/locals.php:1064
+#: CherryFramework/includes/locals.php:1066
 msgid "Add page"
 msgstr "Ajouter la page"
 
-#: ../includes/locals.php:1065
+#: CherryFramework/includes/locals.php:1067
 msgid "Selected pages"
 msgstr "Pages sélectionnées"
 
-#: ../includes/locals.php:1066
+#: CherryFramework/includes/locals.php:1068
 msgid "No pages"
 msgstr "No pages"
 
-#: ../includes/locals.php:1067
+#: CherryFramework/includes/locals.php:1069
 msgid "All devices"
 msgstr "Tous les appareils"
 
-#: ../includes/locals.php:1068
+#: CherryFramework/includes/locals.php:1070
 msgid "Desktops"
 msgstr "Ordinateurs de bureau"
 
-#: ../includes/locals.php:1069
+#: CherryFramework/includes/locals.php:1071
 msgid "Tablets"
 msgstr "Tablettes"
 
-#: ../includes/locals.php:1070
+#: CherryFramework/includes/locals.php:1072
 msgid "Phones"
 msgstr "Téléphones"
 
-#: ../includes/locals.php:1071
+#: CherryFramework/includes/locals.php:1073
 msgid "Desktops/Tablets"
 msgstr "Bureaux/Tablettes"
 
-#: ../includes/locals.php:1072
+#: CherryFramework/includes/locals.php:1074
 msgid "Tablets/Phones"
 msgstr "Tablettes/Téléphones"
 
-#: ../includes/locals.php:1073
+#: CherryFramework/includes/locals.php:1075
 msgid "Desktops/Phones"
 msgstr "Bureaux/téléphones"
 
-#: ../includes/locals.php:1074
+#: CherryFramework/includes/locals.php:1076
 msgid "All users"
 msgstr "Tous les utilisateurs"
 
-#: ../includes/locals.php:1075
+#: CherryFramework/includes/locals.php:1077
 msgid "Only guests"
 msgstr "Seulement invités"
 
-#: ../includes/locals.php:1076
+#: CherryFramework/includes/locals.php:1078
 msgid "Only registered users"
 msgstr "Seulement utilisateurs inscrits"
 
-#: ../includes/locals.php:1077
+#: CherryFramework/includes/locals.php:1079
 msgid "Only administrator"
 msgstr "Seulement administrateur"
 
-#: ../includes/locals.php:1078
+#: CherryFramework/includes/locals.php:1080
 msgid "Select page to add"
 msgstr "Choisissez la page pour ajouter"
 
-#: ../includes/locals.php:1079
+#: CherryFramework/includes/locals.php:1081
 msgid "Custom CSS class"
 msgstr "Custom CSS class"
 
-#: ../includes/locals.php:1082
+#: CherryFramework/includes/locals.php:1084
 msgid "Sitemap XML"
 msgstr "Sitemap XML"
 
-#: ../includes/locals.php:1083
+#: CherryFramework/includes/locals.php:1085
 msgid "Use sitemap.xml for your website"
 msgstr "Utiliser un fichier sitemap.xml pour votre site"
 
-#: ../includes/locals.php:1084
+#: CherryFramework/includes/locals.php:1086
 msgid "Enable sitemap.xml (Disabling this option will delete sitemap.xml file)"
 msgstr ""
 "Activer le fichier sitemap.xml (désactiver cette option va supprimer le "
 "fichier sitemap.xml)"
 
-#: ../includes/locals.php:1085
+#: CherryFramework/includes/locals.php:1087
 msgid ""
 "Generate robots.txt file to control search bots while indexing your website. "
 "(Disabling this option will delete robots.txt file)"
@@ -4215,23 +4316,23 @@ msgstr ""
 "recherche qui indexent votre site. (désactiver cette option va supprimer le "
 "fichier robots.txt)"
 
-#: ../includes/locals.php:1086
+#: CherryFramework/includes/locals.php:1088
 msgid "Include post types."
 msgstr "Inclure les types de poste."
 
-#: ../includes/locals.php:1087
+#: CherryFramework/includes/locals.php:1089
 msgid "Priority."
 msgstr "Priorité."
 
-#: ../includes/locals.php:1088
+#: CherryFramework/includes/locals.php:1090
 msgid "Change freq."
 msgstr "Changer fréq."
 
-#: ../includes/locals.php:1089
+#: CherryFramework/includes/locals.php:1091
 msgid "Post types settings."
 msgstr "Message types paramètres."
 
-#: ../includes/locals.php:1090
+#: CherryFramework/includes/locals.php:1092
 msgid ""
 "<strong>Include post types</strong> - specify the post types which will be "
 "included into your sitemap."
@@ -4239,7 +4340,7 @@ msgstr ""
 "<strong> Inclure les types de poste </strong> - spécifier les types de poste "
 "qui seront inclus dans votre sitema"
 
-#: ../includes/locals.php:1091
+#: CherryFramework/includes/locals.php:1093
 msgid ""
 "<strong>Priority</strong> - set post type priorities on your site. For "
 "example, if the blog page content is more important for search engines than "
@@ -4252,7 +4353,7 @@ msgstr ""
 "priorité de messages de blog comme 1, pour les pages de portefeuille que 0,9 "
 "et ainsi de suite."
 
-#: ../includes/locals.php:1092
+#: CherryFramework/includes/locals.php:1094
 msgid ""
 "<strong>Change frequency</strong> - specify how often you change certain "
 "post types. It helps the search engines to determine how relevant your "
@@ -4262,7 +4363,7 @@ msgstr ""
 "vous changez certains types de poste. Il aide les moteurs de recherche afin "
 "de déterminer la pertinence de votre information au moment de la recherche."
 
-#: ../includes/locals.php:1093
+#: CherryFramework/includes/locals.php:1095
 msgid ""
 "<strong>Ping sitemap</strong> - choose the search engines which will receive "
 "the link to your sitemap."
@@ -4270,53 +4371,53 @@ msgstr ""
 "<strong> Ping plan du site </strong> - choisir les moteurs de recherche qui "
 "recevront le lien vers votre sitemap."
 
-#: ../includes/locals.php:1094
+#: CherryFramework/includes/locals.php:1096
 msgid "Ping sitemap."
 msgstr "Ping plan du site."
 
-#: ../includes/locals.php:1095
+#: CherryFramework/includes/locals.php:1097
 msgid "SEO"
 msgstr "SEO"
 
-#: ../includes/locals.php:1096
+#: CherryFramework/includes/locals.php:1098
 msgid "Your website indexation settings."
 msgstr "Votre site paramètres d'indexation."
 
-#: ../includes/locals.php:1097
+#: CherryFramework/includes/locals.php:1099
 msgid ""
 "Forbid the search engines to index the following directories of your site."
 msgstr ""
 "Interdire les moteurs de recherche d'indexer les répertoires suivants de "
 "votre site."
 
-#: ../includes/locals.php:1098
+#: CherryFramework/includes/locals.php:1100
 msgid ""
 "These settings will help reduce the information search range on your site. "
 msgstr ""
 "Ces paramètres permettront de réduire les informations plage de recherche "
 "sur votre site."
 
-#: ../includes/locals.php:1099
+#: CherryFramework/includes/locals.php:1101
 msgid "WordPress engine system files and folders <em>(recommended)</em>"
 msgstr ""
 "Les fichiers système de moteur WordPress et dossiers <em>(recommandé)</em>"
 
-#: ../includes/locals.php:1100
+#: CherryFramework/includes/locals.php:1102
 msgid "Your plugins system files and folders <em>(recommended)</em>"
 msgstr "Vos plugins fichiers système et dossiers <em>(recommandé)</em>"
 
-#: ../includes/locals.php:1101
+#: CherryFramework/includes/locals.php:1103
 msgid "Your themes system files and folders <em>(recommended)</em>"
 msgstr "Vos thèmes fichiers système et dossiers <em>(recommandé)</em>"
 
-#: ../includes/locals.php:1102
+#: CherryFramework/includes/locals.php:1104
 msgid ""
 "Media library files (images, video, audio, etc.) <em>(not recommended)</em>"
 msgstr ""
 "Fichiers de bibliothèque de médias (images, vidéo, audio, etc) <em>(non "
 "recommandé)</em>"
 
-#: ../includes/locals.php:1103
+#: CherryFramework/includes/locals.php:1105
 msgid ""
 "Add the <em>\"rel\"</em> attribute with the <em>\"nofollow\"</em> value to "
 "content links."
@@ -4324,7 +4425,7 @@ msgstr ""
 "Ajouter le <em> \"rel\" </em> attribut avec le <em>\"nofollow\"</em> valeur "
 "aux liens de contenu."
 
-#: ../includes/locals.php:1104
+#: CherryFramework/includes/locals.php:1106
 msgid ""
 "This option will stop the search engines from going to other sites following "
 "the links in your site content."
@@ -4332,21 +4433,143 @@ msgstr ""
 "Cette option sera d'arrêter les moteurs de recherche d'aller vers d'autres "
 "sites en suivant les liens dans le contenu de votre site."
 
-#: ../includes/register-motopress.php:33
+#: CherryFramework/includes/register-motopress.php:33
 msgid ""
-"MotoPress Content Editor is a drag and drop visual builder for creating and "
-"editing your WordPress posts and pages.<br/>Note: MotoPress Content Editor "
-"<b>customizes the content created only by this plugin</b>. To edit "
-"previously created content you should use the default WordPress editor."
+"<b>MotoPress Content Editor Lite</b> is a drag and drop visual builder for "
+"creating and editing your WordPress posts and pages.<br/><b>Note:</b> "
+"MotoPress Content Editor Lite <u>customizes the content created only by this "
+"plugin</u>. To edit previously created content you should use the default "
+"WordPress editor."
 msgstr ""
 
-#: ../includes/register-plugins.php:81
+#: CherryFramework/includes/register-plugins.php:81
 msgid "Something went wrong with the plugin API."
 msgstr ""
 
-#: ../includes/register-plugins.php:94
+#: CherryFramework/includes/register-plugins.php:94
 #, php-format
 msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:77
+msgid "Specify your name."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:78
+msgid "Specify your email."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:79
+msgid "Specify your Order ID."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:80
+msgid "Specify ticket subject."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:81
+msgid "Specify ticket message."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:82
+msgid "Please select a product"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/class-cherry-tm-chat.php:83
+msgid "Order ID is not correct."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:10
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:14
+msgid "Ask Your Question"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:21
+msgid "Your message has been sent.<br> We will reply to you shortly."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:27
+msgid "Sorry, but your message has not been sent."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:32
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:24
+msgid "Please feel free to ask another question"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:35
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:26
+msgid "Thanks for contacting us!"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:36
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:51
+msgid "To better serve you, please fill out the short form."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:45
+msgid "Order ID"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:46
+msgid "Optional"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:50
+msgid "Subject"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:53
+msgid "Message"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:56
+msgid "Submit"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:60
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:68
+msgid "Chat settings"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-offline.php:63
+msgid "operator is offline"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:11
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:15
+msgid "Live Chat"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:27
+msgid "To better serve you, please provide your order id."
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:30
+msgid "Enter Your Order ID"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:35
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:36
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:60
+msgid "Start Chat"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:43
+msgid "Have an order ID"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:43
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:45
+msgid "Click here"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:45
+msgid "New client or can't find your order ID?"
+msgstr ""
+
+#: CherryFramework/includes/tm-chat/views/dialog-online.php:71
+msgid "operator is online"
 msgstr ""
 
 #~ msgid "Style Switcher"

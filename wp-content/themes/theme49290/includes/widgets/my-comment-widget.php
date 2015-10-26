@@ -53,7 +53,7 @@ class MY_CommentWidget extends WP_Widget_Recent_Comments {
 		$comments = array_slice( (array) $comments, 0, $comments_count );
 ?>
 		<?php echo $before_widget; ?>
-			<?php if ( $title ) echo $before_title . $title . $after_title; ?>
+			<?php if ( $title ) echo $before_title . __($title) . $after_title; ?>
 		<ul class="comments-custom unstyled"><?php
 			if ( $comments ) : foreach ( (array) $comments as $comment) : ?>
 			

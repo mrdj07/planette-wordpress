@@ -1104,7 +1104,7 @@
 			'media_index' => __('Media library files (images, video, audio, etc.) <em>(not recommended)</em>', $domain),
 			'nofollow_name' => __('Add the <em>"rel"</em> attribute with the <em>"nofollow"</em> value to content links.', $domain),
 			'nofollow_desc' => __('This option will stop the search engines from going to other sites following the links in your site content.', $domain),
-
+			'more' => __('More', $domain),
 			'' => '' // empty value
 		);
 		$is_cherry_local_init = true;
