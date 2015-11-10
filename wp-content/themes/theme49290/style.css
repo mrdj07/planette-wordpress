@@ -30,6 +30,14 @@
 .home2-banner h5 {
 	text-transform: none !important;
 }
+
+/**
+	Home Page Override
+*/
+.home1-title h2, .home2-banner h5{
+	font-family: "Ubuntu" !important;
+	text-transform:uppercase !important;
+}
 	/**
         Featured Block
     */

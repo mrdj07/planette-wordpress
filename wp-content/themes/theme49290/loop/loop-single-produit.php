@@ -43,9 +43,32 @@
 				</div>
 
 			<?php else :?>
+				<?php
+				$ingredients = get_field('ingredients');
+				$fragrance = get_field('fragrance');
+				$punchlines = is_string(get_field('punch_lines')) ? array() : get_field('punch_lines');
+				$first_row_class = count($punchlines) > 0 ? 'span8' : 'span12';
+				?>
 				<!-- Post Content -->
 				<div class="post_content">
-					<?php the_content(''); ?>
+					<div class="row">
+						<div class="<?php echo $first_row_class; ?>">
+							<?php the_content(''); ?>
+						</div>
+						<?php if(count($punchlines) > 0) : ?>
+						<div class="span4 featured">
+							<div>
+								<ul>
+									<?php foreach($punchlines as $p): ?>
+										<li><?php echo $p; ?></li>
+									<?php endforeach; ?>
+								</ul>
+							</div>
+
+						</div>
+						<?php endif; ?>
+					</div>
+
 					<div class="clear"></div>
 					<a href="#" class="open-instructions" title="Cliquez pour ouvrir les instructions">Instructions</a>
 					<div class="produit-instructions">
@@ -55,7 +78,17 @@
 					<ul>
 						<li><strong>Format: </strong><?php the_field('format'); ?></li>
 						<li><strong>Prix Sugg&eacute;r&eacute;: </strong><?php the_field('prix_suggere'); ?></li>
+						<?php if(!empty($fragrance)): ?><li><strong>Fragrance: </strong><?php echo $fragrance; ?></li><?php endif; ?>
 					</ul>
+					<?php ?>
+					<?php if(!empty($ingredients)): ?>
+						<h4>Ingr&eacute;dients</h4>
+						<ul>
+							<?php foreach ($ingredients as $item) { ?>
+								<li class="produits-list"><a href="<?php echo get_permalink($item); ?>"><?php echo $item->post_title; ?></a></li>
+							<?php } ?>
+						</ul>
+					<?php endif; ?>
 
 				</div>
 				<!-- //Post Content -->

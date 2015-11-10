@@ -34,16 +34,17 @@ endif;
 function my_post_type_slider() {
 	register_post_type( 'slider',
 		array( 
-			'label'               => theme_locals("slides"), 
-			'singular_label'      => theme_locals("slides"),
+			'label'               => 'Promotions',
+			'singular_label'      => 'Promotion',
 			'_builtin'            => false,
 			'exclude_from_search' => true, // Exclude from Search Results
 			'capability_type'     => 'page',
 			'public'              => true, 
 			'show_ui'             => true,
+			'menu_position'       => 5,
 			'show_in_nav_menus'   => false,
 			'rewrite' => array(
-						'slug'       => 'slide-view',
+						'slug'       => 'promo-view',
 						'with_front' => FALSE,
 			),
 			'query_var' => "slide", // This goes to the WP_Query schema
@@ -56,7 +57,7 @@ function my_post_type_slider() {
 		)
 	);
 }
-//add_action('init', 'my_post_type_slider');
+add_action('init', 'my_post_type_slider');
 
 /* Portfolio */
 function my_post_type_portfolio() {
@@ -87,7 +88,7 @@ function my_post_type_portfolio() {
 	register_taxonomy('portfolio_category', 'portfolio', array('hierarchical' => true, 'label' => theme_locals("categories"), 'singular_name' => theme_locals("category"), "rewrite" => true, "query_var" => true));
 	register_taxonomy('portfolio_tag', 'portfolio', array('hierarchical' => false, 'label' => theme_locals("tags"), 'singular_name' => theme_locals("tag"), 'rewrite' => true, 'query_var' => true));
 }
-add_action('init', 'my_post_type_portfolio');
+//add_action('init', 'my_post_type_portfolio');
 
 /* Testimonial */
 function my_post_type_testi() {
@@ -97,7 +98,7 @@ function my_post_type_testi() {
 				'public'            => true, 
 				'show_ui'           => true,
 				'show_in_nav_menus' => false,
-				'menu_position'     => 5,
+				'menu_position'     => 4,
 				'rewrite'           => array(
 					'slug'       => 'temoignage',
 					'with_front' => FALSE,
@@ -120,7 +121,7 @@ function my_post_type_matieres() {
 				'public'            => true, 
 				'show_ui'           => true,
 				'show_in_nav_menus' => false,
-				'menu_position'     => 5,
+				'menu_position'     => 3,
 				'rewrite'           => array(
 					'slug'       => 'matiere',
 					'with_front' => FALSE,
@@ -142,7 +143,7 @@ function my_post_type_produits() {
 			'public'            => true,
 			'show_ui'           => true,
 			'show_in_nav_menus' => false,
-			'menu_position'     => 5,
+			'menu_position'     => 2,
 			'rewrite'           => array(
 				'slug'       => 'produit',
 				'with_front' => FALSE,

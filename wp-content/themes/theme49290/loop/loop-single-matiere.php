@@ -52,7 +52,7 @@
 					<h4>Produits l'utilisant</h4>
 					<ul>
 					<?php foreach ($produits as $item) { ?>
-						<li class="produits-list"><a href="<?php get_permalink($item->ID); ?>"><?php echo $item->post_title; ?></a></li>
+						<li class="produits-list"><a href="<?php echo get_permalink($item->ID); ?>"><?php echo $item->post_title; ?></a></li>
 						<?php //print_r($item); ?>
 
 
